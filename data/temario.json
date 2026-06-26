@@ -1,0 +1,422 @@
+[
+  {
+    "tema_id": "1_Red_Troncal",
+    "tipo": "Regla de Oro",
+    "pregunta": "¿Qué autovías troncales estructuran la red de Huelva?",
+    "respuesta": "A-49 (E1): Sevilla-Ayamonte (Autovía Quinto Centenario). H-31: Acceso a Huelva desde A-49 (Km 77). H-30: Circunvalación de Huelva.",
+    "ayuda_memoristica": "Patrón troncal: A-49 es la espina dorsal. H-31 es el 'acceso al pecho' (Huelva) y H-30 es el 'cinturón' (circunvalación)."
+  },
+  {
+    "tema_id": "1_Red_Troncal",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Cómo se reparte operativamente la A-49 entre el BC-1 (Costa Occ) y BC-7 (Riberas-Costa)?",
+    "respuesta": "BC-1: A-49 desde Portugal hasta Pk 94. BC-7: A-49 desde Pk 88 al 105 (sentido Portugal).",
+    "ayuda_memoristica": "Tramo Pk 88-105 es de BC-7 (Punta), PERO si hay atrapados sentido Sevilla, sale BC-1 (Ayamonte)."
+  },
+  {
+    "tema_id": "1_Red_Troncal",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Cómo se divide la A-49 entre BC-3 (Condado) y BC-9 (Campiña)?",
+    "respuesta": "BC-9 (S. Juan): A-49 desde Pk 48 hasta 87. BC-3 (Almonte): A-49 desde Pk 48 hasta el límite provincial con Sevilla.",
+    "ayuda_memoristica": "Pk 48 es la frontera en la A-49. San Juan (BC-9) cubre hacia Huelva. Almonte (BC-3) cubre hacia Sevilla."
+  },
+  {
+    "tema_id": "2_Nacionales",
+    "tipo": "Regla de Oro",
+    "pregunta": "¿Cómo distinguir las nacionales principales N-431, N-433 y N-435?",
+    "respuesta": "N-431: Eje Costa (Huelva-Ayamonte). N-433: Eje Sierra (Sevilla-Rosal de la Frontera). N-435: Eje Interior (Zafra-San Juan del Puerto).",
+    "ayuda_memoristica": "Radar de zona: 431=1 playa (Costa), 433=3 sierra (Serrana), 435=5 interior (la larga del interior)."
+  },
+  {
+    "tema_id": "2_Nacionales",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué municipios o pedanías lindan o son atravesados por la N-435?",
+    "respuesta": "Atraviesa o linda con: El Pozuelo, Patrás, El Buitrón, Trigueros, Beas, Valverde del Camino, La Nava, Jabugo y Puerto Blanco.",
+    "ayuda_memoristica": "Si preguntan por N-435 en el test, busca siempre pueblos del eje vertical central (Andévalo oriental/Sierra)."
+  },
+  {
+    "tema_id": "2_Nacionales",
+    "tipo": "Trazado Clave",
+    "pregunta": "¿Qué municipios une la N-433 en el norte?",
+    "respuesta": "Une Cortegana y Aroche. Atraviesa Rosal de la Frontera, Aracena, Higuera de la Sierra y Los Marines.",
+    "ayuda_memoristica": "N-433 = La línea horizontal de la sierra que corta desde Sevilla hasta Portugal (Rosal)."
+  },
+  {
+    "tema_id": "3_Eje_Minero_A461",
+    "tipo": "Trazado Clave",
+    "pregunta": "¿Qué ruta sigue la A-461 y con qué municipios linda?",
+    "respuesta": "Atraviesa la Cuenca Minera: El Campillo, Campofrío y Minas de Riotinto. Linda con Santa Olalla del Cala y Nerva.",
+    "ayuda_memoristica": "A-461 = El eje minero principal. Si ves Campofrío o Riotinto en el test, la respuesta suele ser A-461."
+  },
+  {
+    "tema_id": "3_Eje_Minero_A461",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Qué zonas abarcan el BC-2 (Sierra Oriental) y BC-8 (Cuenca Minera) en la A-461?",
+    "respuesta": "BC-2 (Aracena): A-461 hasta Pk 27, Cala, Zufre. BC-8 (Riotinto): A-461 resto, Campillo, Nerva.",
+    "ayuda_memoristica": "El Pk 27 de la A-461 es la muralla que divide la sierra de la cuenca minera operativa."
+  },
+  {
+    "tema_id": "3_Eje_Minero_A461",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿A qué parque pertenece el Vertedero de Residuos Tóxicos de Nerva?",
+    "respuesta": "El parque titular es BC-8 (Riotinto). Sin embargo, su 1er Parque de Apoyo es el BC-4 (Valverde).",
+    "ayuda_memoristica": "El veneno de Nerva lo apoya Valverde. (Excepción crucial del protocolo de apoyos)."
+  },
+  {
+    "tema_id": "4_Eje_CostaEste_A494",
+    "tipo": "Conexión Directa",
+    "pregunta": "¿Qué vía une Moguer y Palos de la Frontera?",
+    "respuesta": "La A-494. Une San Juan del Puerto, Moguer, Palos y Mazagón.",
+    "ayuda_memoristica": "A-494 = El cinturón fresero-costero del Este que conecta a los descubridores (Moguer/Palos)."
+  },
+  {
+    "tema_id": "4_Eje_CostaEste_A494",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué playas se encuentran a lo largo de la A-494 (Moguer/Palos)?",
+    "respuesta": "Arenosillo, Mata del Difunto, Torre del Loro/Oro, Fontanilla, Estrella, Parador, Rompeculos, Mazagón (compartida).",
+    "ayuda_memoristica": "Historia: 'Un Difunto con un Loro de Oro bebió en la Fontanilla bajo una Estrella en el Parador...' -> Todas en la A-494."
+  },
+  {
+    "tema_id": "4_Eje_CostaEste_A494",
+    "tipo": "Falso Único",
+    "pregunta": "¿Dónde se concentran los asentamientos de chabolas mencionados en el tema?",
+    "respuesta": "Zona fresera de la costa/condado: Moguer (Las Madres, Casablanca), Palos (San Jorge), Lucena y Lepe.",
+    "ayuda_memoristica": "Si preguntan por asentamientos, busca SIEMPRE municipios de la fresa en la costa o condado. Nunca en la sierra."
+  },
+  {
+    "tema_id": "5_Eje_Andevalo_A495",
+    "tipo": "Conexión Directa",
+    "pregunta": "¿Qué vía atraviesa Alosno, San Bartolomé de la Torre y Cabezas Rubias?",
+    "respuesta": "La A-495. Une Gibraleón con Rosal de la Frontera. También linda con La Calvilla y Santa Bárbara de Casa.",
+    "ayuda_memoristica": "A-495 = Eje central del Andévalo Occidental. Une Gibraleón con la frontera norte."
+  },
+  {
+    "tema_id": "5_Eje_Andevalo_A495",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Qué parque tiene como zona principal de cobertura la A-495 y Tharsis?",
+    "respuesta": "El Parque Comarcal Andévalo Occidental (BC-5, Alosno).",
+    "ayuda_memoristica": "BC-5 (Alosno) es el guardián de la A-495 y de la zona minera de Tharsis."
+  },
+  {
+    "tema_id": "5_Eje_Andevalo_A495",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Tharsis a qué municipio pertenece y qué vías lo conectan de forma transversal?",
+    "respuesta": "Pertenece a Alosno. Se conecta a Villanueva de las Cruces y a Puebla de Guzmán por la A-475.",
+    "ayuda_memoristica": "Tharsis = Alosno. Cortado transversalmente por la A-475."
+  },
+  {
+    "tema_id": "6_Frontera_A499_HU6400",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Qué carretera atraviesa Villanueva de los Castillejos, San Silvestre de Guzmán y Villablanca?",
+    "respuesta": "La A-499. Une Ayamonte con Puebla de Guzmán, en paralelo a la frontera con Portugal.",
+    "ayuda_memoristica": "A-499 = La frontera vertical. Sube desde Ayamonte (costa) hasta Puebla (Andévalo)."
+  },
+  {
+    "tema_id": "6_Frontera_A499_HU6400",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué vía local clave conduce a El Granado y al Puerto de la Laja?",
+    "respuesta": "La HU-6400. Es el acceso al Puente Internacional sobre el río Chanza.",
+    "ayuda_memoristica": "HU-6400 = Límite absoluto con Portugal por el río Chanza (El Granado)."
+  },
+  {
+    "tema_id": "6_Frontera_A499_HU6400",
+    "tipo": "Conexión Directa",
+    "pregunta": "¿Qué embalses y puentes destacan en la frontera de El Granado?",
+    "respuesta": "Embalse del Chanza (río Chanza/Guadiana) y el Puente Internacional del Bajo Guadiana.",
+    "ayuda_memoristica": "Granado = Guadiana y Chanza (puente y embalse internacional)."
+  },
+  {
+    "tema_id": "7_Eje_Valverde_A496",
+    "tipo": "Conexión Directa",
+    "pregunta": "¿Qué carretera une Valverde del Camino y Calañas?",
+    "respuesta": "La A-496. Une Valverde con Cabezas Rubias pasando por Calañas. Linda con Sotiel Coronada.",
+    "ayuda_memoristica": "Valverde-Calañas-Cabezas Rubias = A-496. Sotiel Coronada es su parada clave."
+  },
+  {
+    "tema_id": "7_Eje_Valverde_A496",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Qué parque tiene como zona principal de cobertura la A-496 y la N-435 (centro)?",
+    "respuesta": "El Parque Comarcal Andévalo Oriental (BC-4, Valverde del Camino).",
+    "ayuda_memoristica": "BC-4 es el guardián de Valverde, la N-435 central y Calañas."
+  },
+  {
+    "tema_id": "7_Eje_Valverde_A496",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿A qué municipios pertenecen El Pozuelo y El Buitrón?",
+    "respuesta": "Ambos pertenecen a Zalamea la Real.",
+    "ayuda_memoristica": "Zalamea = Pozuelo, Buitrón y Membrillo. (No confundir con Valverde, aunque estén cerca)."
+  },
+  {
+    "tema_id": "8_Eje_Condado_A472",
+    "tipo": "Trazado Clave",
+    "pregunta": "¿Qué municipios están conectados por la A-472?",
+    "respuesta": "Une San Juan del Puerto, Niebla, Villarrasa, La Palma del Condado, Villalba del Alcor y Manzanilla.",
+    "ayuda_memoristica": "A-472 = La carretera del vino y el condado viejo. Si te preguntan por Villalba o Manzanilla, es la A-472."
+  },
+  {
+    "tema_id": "8_Eje_Condado_A472",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Cómo se divide La Palma del Condado entre parques de bomberos?",
+    "respuesta": "BC-9 (San Juan): Zona Norte (hasta Av. Huelva y prolongación a la A-472). BC-3 (Almonte): Resto de La Palma.",
+    "ayuda_memoristica": "La Palma está partida en dos operativamente. El norte es de San Juan, el resto de Almonte."
+  },
+  {
+    "tema_id": "8_Eje_Condado_A472",
+    "tipo": "Falso Único",
+    "pregunta": "¿Qué puente trampa aparece en la red del Condado?",
+    "respuesta": "El 'Puente Salomón'. Hay dos: uno en Niebla y otro en Paterna del Campo. Ambos se cruzan por la A-493.",
+    "ayuda_memoristica": "Salomón = A-493. No importa si es el de Niebla o el de Paterna."
+  },
+  {
+    "tema_id": "9_Eje_Rocio_A483",
+    "tipo": "Conexión Directa",
+    "pregunta": "¿Qué carretera cruza Bollullos Par del Condado, Almonte y llega a Matalascañas?",
+    "respuesta": "La A-483. Pasa por El Rocío y cruza el Parque Nacional.",
+    "ayuda_memoristica": "A-483 = La ruta romera vertical. Bollullos -> Almonte -> Rocío -> Matalascañas."
+  },
+  {
+    "tema_id": "9_Eje_Rocio_A483",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué río atraviesa la localidad de El Rocío (Almonte)?",
+    "respuesta": "El río o arroyo de La Rocina.",
+    "ayuda_memoristica": "El Rocío = La Rocina. Descartar opciones trampa del Guadalquivir directo."
+  },
+  {
+    "tema_id": "9_Eje_Rocio_A483",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué playas pertenecen exclusivamente a Almonte?",
+    "respuesta": "Matalascañas, Torre de la Higuera, Castilla, Malandar, Coto, Caño Guerrero, Inglesito.",
+    "ayuda_memoristica": "Almonte domina la costa del Parque Nacional: castillos, cotos y Matalascañas."
+  },
+  {
+    "tema_id": "10_Ejes_Bonares_A484_A486",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Qué carreteras cruzan Rociana del Condado y Lucena del Puerto?",
+    "respuesta": "La A-484 cruza Rociana del Condado. La A-486 atraviesa Lucena del Puerto.",
+    "ayuda_memoristica": "Lucena = 486 (termina en 6). Rociana = 484 (termina en 4)."
+  },
+  {
+    "tema_id": "10_Ejes_Bonares_A484_A486",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Cuáles son los límites geográficos (Norte y Sur) de Bonares?",
+    "respuesta": "Norte: Niebla. Sur: Lucena del Puerto.",
+    "ayuda_memoristica": "Bonares está 'encajonado' entre Niebla (arriba) y Lucena (abajo)."
+  },
+  {
+    "tema_id": "10_Ejes_Bonares_A484_A486",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿A qué municipio pertenece el Polígono Industrial El Corchito?",
+    "respuesta": "A Bonares.",
+    "ayuda_memoristica": "Bonares corcho, Bollullos lirio, Hinojos dueñas, Palma centenario."
+  },
+  {
+    "tema_id": "11_Vias_Forestales_y_Trampas",
+    "tipo": "Falso Único",
+    "pregunta": "¿Qué identifican las vías con prefijo H-9xxx y cuáles son las fijas de examen?",
+    "respuesta": "Son caminos forestales. Claves: H-9009 (Acceso a Mina Isabel en El Almendro) y H-9002 (Acceso a El Mustio).",
+    "ayuda_memoristica": "El prefijo H (sin U) y un 9 solitario es bosque o mina. Mina Isabel = H-9009."
+  },
+  {
+    "tema_id": "11_Vias_Forestales_y_Trampas",
+    "tipo": "Truco de Descarte",
+    "pregunta": "¿Qué ocurre con opciones del test que presentan terminaciones raras como N-439, A-488 o HU-6161?",
+    "respuesta": "NO EXISTEN. El tribunal inventa matrículas repitiendo números para rellenar opciones falsas.",
+    "ayuda_memoristica": "Si dudas entre A-484 y A-488, coge la que termina en número par bajo o redondo."
+  },
+  {
+    "tema_id": "11_Vias_Forestales_y_Trampas",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué vía transversal conecta Manzanilla con Paterna y Aldea de Tejada con Escacena?",
+    "respuesta": "Manzanilla a Paterna: HU-6109. Aldea de Tejada a Escacena: HU-6110.",
+    "ayuda_memoristica": "El límite Este profundo de la provincia lo dominan los HU-61xx altos."
+  },
+  {
+    "tema_id": "12_Orientacion_Norte_Sierra",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Qué municipio se encuentra al NORTE de Aroche y Cortegana?",
+    "respuesta": "Al norte de Aroche se encuentra Encinasola. Al norte del Cerro de Andévalo se encuentra Cortegana.",
+    "ayuda_memoristica": "Aroche mira arriba y choca con Encinasola (la frontera pura)."
+  },
+  {
+    "tema_id": "12_Orientacion_Norte_Sierra",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Qué municipio se encuentra al NORTE de Cala, Alájar y Cortelazor?",
+    "respuesta": "Norte de Cala: Arroyomolinos de León. Norte de Alájar: Fuenteheridos. Norte de Cortelazor: Hinojales.",
+    "ayuda_memoristica": "Si subes desde Cala llegas a Arroyomolinos (el techo de Huelva)."
+  },
+  {
+    "tema_id": "12_Orientacion_Norte_Sierra",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿A qué parque pertenece operativamente Encinasola en el extremo norte?",
+    "respuesta": "Pertenece al Parque Comarcal Sierra Occidental (BC-6, Jabugo).",
+    "ayuda_memoristica": "Encinasola está tan al norte que la cubre el BC-6 (Sierra Occidental) con ayuda de Portugal (Barrancos)."
+  },
+  {
+    "tema_id": "13_Orientacion_Norte_Andevalo",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Qué hay al NORTE de Puebla de Guzmán, Cabezas Rubias y El Almendro?",
+    "respuesta": "Norte de Puebla de Guzmán: Paymogo. Norte de Cabezas Rubias: Santa Bárbara de Casa. Norte de El Almendro: San Silvestre de Guzmán.",
+    "ayuda_memoristica": "Sigue la escalera del Andévalo: El Almendro -> S. Silvestre -> Puebla -> Paymogo."
+  },
+  {
+    "tema_id": "13_Orientacion_Norte_Andevalo",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Qué hay al NORTE de Nerva, El Campillo y Villanueva de las Cruces?",
+    "respuesta": "Al norte de Nerva/Campillo se encuentra Campofrío. Al norte de Villanueva de las Cruces está Cabezas Rubias.",
+    "ayuda_memoristica": "Campofrío es el 'sombrero' de la Cuenca Minera. Cabezas Rubias es el 'sombrero' de Vva. de las Cruces."
+  },
+  {
+    "tema_id": "13_Orientacion_Norte_Andevalo",
+    "tipo": "Brújula Espacial",
+    "pregunta": "¿Qué hay al NORTE de Almonte, Bonares y Lucena del Puerto?",
+    "respuesta": "Norte de Almonte: Bollullos P.C. / Rociana. Norte de Bonares/Lucena: Niebla.",
+    "ayuda_memoristica": "Todo el condado apunta a Niebla o al vino (Bollullos) si miras hacia arriba."
+  },
+  {
+    "tema_id": "14_Embalses_Costa_Andevalo",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Dónde se encuentran los embalses del Lagunazo, del Piedras y Los Machos?",
+    "respuesta": "Lagunazo: Alosno (junto con Grande, Pino y Lapilla). Embalse del Piedras y Presa de los Machos: Cartaya.",
+    "ayuda_memoristica": "Lagunazo = Alosno. Piedras = Cartaya. (Cartaya tiene la 'carta' de las piedras)."
+  },
+  {
+    "tema_id": "14_Embalses_Costa_Andevalo",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué municipio acoge el Embalse del Chanza y el Puente Internacional?",
+    "respuesta": "El Granado.",
+    "ayuda_memoristica": "Granado = Guadiana y Chanza (frontera de agua)."
+  },
+  {
+    "tema_id": "14_Embalses_Costa_Andevalo",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Dónde se sitúan los embalses Pedrianes y Mahomalejo?",
+    "respuesta": "Pedrianes: Puebla de Guzmán. Mahomalejo: Gibraleón.",
+    "ayuda_memoristica": "Puebla bebe de Pedrianes. Gibraleón de Mahoma(lejo)."
+  },
+  {
+    "tema_id": "15_Embalses_Sierra_Minera",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Dónde están los embalses de Aracena, Zufre y Valuengo?",
+    "respuesta": "Aracena: Corteconcepción / Puerto Moral. Zufre: Zufre. Valuengo: Asociado a Cortegana.",
+    "ayuda_memoristica": "Corteconcepción acoge el agua de Aracena. Zufre se bebe a sí mismo."
+  },
+  {
+    "tema_id": "15_Embalses_Sierra_Minera",
+    "tipo": "Geografía Trampa",
+    "pregunta": "¿Dónde están los embalses de Zumajo, Silillos y Calabazar?",
+    "respuesta": "Zumajo: El Campillo. Silillos: Valverde del Camino. Calabazar: Calañas.",
+    "ayuda_memoristica": "Campillo = Zumajo. Valverde = Silillos. Calañas = Calabazar (las 3 C)."
+  },
+  {
+    "tema_id": "15_Embalses_Sierra_Minera",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Dónde se ubican los embalses de Corumbel Bajo y Candon?",
+    "respuesta": "Corumbel Bajo: La Palma del Condado. Candon: Niebla.",
+    "ayuda_memoristica": "La Palma bebe del Corumbel. Niebla bebe del Candón."
+  },
+  {
+    "tema_id": "16_Rios_Principales",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué municipios son atravesados por el Río Tinto?",
+    "respuesta": "Pasa por Berrocal, Niebla, Gibraleón (límite), San Juan del Puerto, Lucena del Puerto y Palos de la Frontera.",
+    "ayuda_memoristica": "Tinto = Desde Berrocal bajando por el Condado hasta el Polo Químico (Palos)."
+  },
+  {
+    "tema_id": "16_Rios_Principales",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué municipios son atravesados por los ríos Odiel y Piedras?",
+    "respuesta": "Río Odiel: El Campillo, Calañas, Gibraleón. Río Piedras: Cartaya y Lepe.",
+    "ayuda_memoristica": "Odiel = Vena minera central. Piedras = Vena de la Costa Oeste (Cartaya/Lepe)."
+  },
+  {
+    "tema_id": "16_Rios_Principales",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Por dónde pasa el Río Múrtigas (Múrtiga)?",
+    "respuesta": "Cumbres S. Bartolomé, Fuenteheridos y atraviesa La Nava.",
+    "ayuda_memoristica": "Múrtigas = Sierra central. Específicamente cruza La Nava."
+  },
+  {
+    "tema_id": "17_Pedanias_Sierra",
+    "tipo": "Regla de Oro",
+    "pregunta": "¿Qué pedanías clave pertenecen a Aracena?",
+    "respuesta": "Carboneras, Jabuguillo, Castañuelo, Corterrangel, Valdezufre, La Umbría.",
+    "ayuda_memoristica": "Casi todo lo que suena a carbón (Carboneras), jabugo pequeño (Jabuguillo) o valle umbrío cerca de la N-433 es Aracena."
+  },
+  {
+    "tema_id": "17_Pedanias_Sierra",
+    "tipo": "Regla de Oro",
+    "pregunta": "¿Qué aldeas y minas forman parte de Almonaster la Real?",
+    "respuesta": "Cueva de la Mora, San Platón, El Patrás, Calabazares, Gil Márquez, Escalada, Mina Concepción.",
+    "ayuda_memoristica": "Almonaster tiene el récord de nombres de aldeas raras y minas antiguas: Mora, Platón, Patrás."
+  },
+  {
+    "tema_id": "17_Pedanias_Sierra",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué pedanías pertenecen a Cortegana?",
+    "respuesta": "El Hurón, El Pontón, Puerto Lucía, La Pica, San Telmo.",
+    "ayuda_memoristica": "Cortegana es militar: tiene un 'Pontón', un 'Hurón', un 'Puerto' y una 'Pica'."
+  },
+  {
+    "tema_id": "18_Pedanias_Condado_Costa",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿A quién pertenecen las pedanías de Lavapiés, El Sapo, Tejada la Nueva e Ituci?",
+    "respuesta": "Lavapiés y Raboconejo: Niebla. El Sapo (P.I.): Villarrasa. Tejada la Nueva e Ituci: Escacena del Campo.",
+    "ayuda_memoristica": "Niebla se lava los pies. Villarrasa tiene un sapo. Escacena guarda ruinas romanas (Tejada/Ituci)."
+  },
+  {
+    "tema_id": "18_Pedanias_Condado_Costa",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Dónde se ubican El Rompido, El Portil, Pozo del Camino e Isla Canela?",
+    "respuesta": "El Rompido: Cartaya. El Portil: Punta Umbría / Cartaya (Nuevo Portil). Pozo del Camino: Ayamonte / Isla Cristina. Isla Canela: Ayamonte.",
+    "ayuda_memoristica": "Cartaya rompe la costa. Ayamonte tiene el pozo fronterizo y la canela."
+  },
+  {
+    "tema_id": "18_Pedanias_Condado_Costa",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Cuáles son las pedanías de Beas y Trigueros?",
+    "respuesta": "Beas: Fuente de la Corcha, Candón, Navahermosa, El Álamo. Trigueros: El Palmar, Las Minetas.",
+    "ayuda_memoristica": "Beas = Candón y Corcha. (Ojo: no confundir Candón aldea con el embalse Candón de Niebla)."
+  },
+  {
+    "tema_id": "19_Industria_y_Asentamientos",
+    "tipo": "Regla de Primera Salida",
+    "pregunta": "¿Cómo se coordinan los apoyos en el Polo Industrial Nuevo Puerto (Palos)?",
+    "respuesta": "El parque titular es BC-9 (San Juan del Puerto). Sus parques de apoyo son BC-7 (Punta Umbría) y BC-3 (Condado).",
+    "ayuda_memoristica": "El humo de Palos lo cubre San Juan, apoyado por el mar (Punta) y el vino (Condado)."
+  },
+  {
+    "tema_id": "19_Industria_y_Asentamientos",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Dónde están los Polígonos de La Barca, Sepes y Varadero?",
+    "respuesta": "La Barca: Cartaya / Lepe (N-431). Sepes: Ayamonte (A-49). Varadero: Punta Umbría (A-497).",
+    "ayuda_memoristica": "Punta = Barcos (Varadero). Ayamonte = Frontera Sepes. Cartaya = P.I. La Barca."
+  },
+  {
+    "tema_id": "19_Industria_y_Asentamientos",
+    "tipo": "Falso Único",
+    "pregunta": "¿Qué puente de la N-435 comparten Almonaster y El Campillo?",
+    "respuesta": "El Puente de los 5 ojos.",
+    "ayuda_memoristica": "Los 5 ojos vigilan la carretera minera N-435 compartida entre El Campillo y Almonaster."
+  },
+  {
+    "tema_id": "20_Minas_y_Estaciones",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Dónde se sitúan Mina Isabel, Corta Atalaya, Aguas Teñidas y Las Herrerías?",
+    "respuesta": "Mina Isabel: El Almendro. Corta Atalaya: Minas de Riotinto. Aguas Teñidas y Magdalena (MATSA): Almonaster (El Cerro). Las Herrerías: Puebla de Guzmán.",
+    "ayuda_memoristica": "Isabel = Almendro. Atalaya = Riotinto. MATSA = Cerro/Almonaster. Herrerías = Puebla."
+  },
+  {
+    "tema_id": "20_Minas_y_Estaciones",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué estaciones de tren clave pertenecen a la línea Zafra-Huelva?",
+    "respuesta": "Gibraleón, Belmonte, Cobujón, Milanos, Calañas, Valdelamusa, Gil Márquez, Almonaster, Jabugo (Repilado).",
+    "ayuda_memoristica": "Si suena a aldea minera/sierra profunda (Valdelamusa, Gil Márquez, Milanos), es la línea norte Zafra-Huelva."
+  },
+  {
+    "tema_id": "20_Minas_y_Estaciones",
+    "tipo": "Dato Directo de Test",
+    "pregunta": "¿Qué estaciones de tren clave pertenecen a la línea Huelva-Sevilla?",
+    "respuesta": "San Juan del Puerto, Las Mallas, Niebla, Villarrasa, La Palma del Condado, Escacena del Campo.",
+    "ayuda_memoristica": "Si suena a zona llana o pueblo del Condado/Vino (Palma, Escacena, Villarrasa), es la línea Huelva-Sevilla."
+  }
+]

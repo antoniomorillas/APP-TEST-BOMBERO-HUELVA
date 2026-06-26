@@ -1,0 +1,22 @@
+[
+    { "nombre": "A-49", "tipo": "Autonómica" },
+    { "nombre": "H-31", "tipo": "Local" },
+    { "nombre": "H-30", "tipo": "Local" },
+    { "nombre": "N-431", "tipo": "Nacional" },
+    { "nombre": "N-433", "tipo": "Nacional" },
+    { "nombre": "N-435", "tipo": "Nacional" },
+    { "nombre": "N-442", "tipo": "Nacional" },
+    { "nombre": "N-444", "tipo": "Nacional" },
+    { "nombre": "HU-3100", "tipo": "Provincial" },
+    { "nombre": "HU-3105", "tipo": "Provincial" },
+    { "nombre": "HU-3106", "tipo": "Provincial" },
+    { "nombre": "HU-3200", "tipo": "Provincial" },
+    { "nombre": "HU-3301", "tipo": "Provincial" },
+    { "nombre": "A-472", "tipo": "Autonómica" },
+    { "nombre": "A-483", "tipo": "Autonómica" },
+    { "nombre": "A-493", "tipo": "Autonómica" },
+    { "nombre": "A-494", "tipo": "Autonómica" },
+    { "nombre": "A-497", "tipo": "Autonómica" },
+    { "nombre": "A-5000", "tipo": "Autonómica" },
+    { "nombre": "H-9002", "tipo": "Local" }
+]

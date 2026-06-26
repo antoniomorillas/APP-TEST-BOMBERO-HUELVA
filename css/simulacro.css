@@ -1,0 +1,97 @@
+/* /css/simulacro.css */
+
+.panel-oscuro {
+    background-color: #0b1120;
+    color: #f8fafc;
+    padding: 20px;
+    font-family: system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+}
+
+.header-simulacro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #1e293b;
+    padding-bottom: 15px;
+}
+
+.titulo-simulacro h1 { font-size: 1.1rem; margin: 0; text-transform: uppercase; }
+.titulo-simulacro p { font-size: 0.8rem; color: #94a3b8; margin: 0; }
+
+.bloque-config { border: none; padding: 0; margin-bottom: 25px; }
+.bloque-config label { display: block; font-size: 0.8rem; font-weight: 700; color: #94a3b8; margin-bottom: 10px; text-transform: uppercase; }
+
+/* ESTRUCTURA CORREGIDA PARA INPUT Y CONTADOR */
+.input-grupo {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Separa el input del contador */
+    background-color: #151f32;
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+    padding: 0 15px; /* Espacio interno */
+}
+
+input[type="number"] {
+    width: 60%; /* Limitamos el ancho del input para que el texto quepa */
+    padding: 15px 0;
+    background: transparent;
+    border: none;
+    color: #ffffff !important; /* FORZADO A BLANCO */
+    font-size: 1.1rem;
+    font-weight: bold;
+    outline: none;
+    -moz-appearance: textfield; /* Quita flechitas en algunos navegadores */
+}
+
+.info-disponibles {
+    color: #ffffff !important; /* FORZADO A BLANCO PARA QUE SE VEA */
+    font-size: 0.9rem;
+    font-weight: bold;
+    white-space: nowrap;
+    padding-left: 10px;
+}
+
+select {
+    width: 100%;
+    padding: 15px;
+    background-color: #151f32;
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+    color: white;
+    font-size: 1rem;
+}
+
+.lista-temas {
+    background-color: #151f32;
+    border: 1px solid #1e293b;
+    border-radius: 8px;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.tema-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #1e293b;
+    cursor: pointer;
+}
+
+.btn-comenzar-test {
+    width: 100%;
+    background-color: #10b981;
+    color: white;
+    padding: 16px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn-comenzar-test:disabled { background-color: #475569; }

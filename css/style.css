@@ -1,0 +1,81 @@
+/* Archivo: css/style.css */
+
+/* 1. Reset básico para que todos los móviles lo representen igual */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 2. Fondo general de la aplicación */
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    /* Evita que se seleccione el texto por accidente al tocar la pantalla rápido */
+    user-select: none; 
+    -webkit-user-select: none;
+}
+
+/* 3. Diseño de la cabecera (Centro de Mando) */
+#main-header {
+    background-color: #d32f2f; /* Rojo bombero */
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+#main-header h1 {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+/* 4. Diseño del marcador de Racha Diaria */
+#daily-streak {
+    background-color: #ff9800; /* Naranja fuego */
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* 5. Contenedor central donde irán los juegos y el estudio */
+#app-container {
+    padding: 20px;
+    max-width: 600px; /* Evita que se desparrame si se abre en un ordenador */
+    margin: 0 auto;   /* Lo centra en la pantalla */
+}
+
+/* 6. Texto temporal de carga */
+.loading {
+    text-align: center;
+    margin-top: 50px;
+    color: #666;
+    font-style: italic;
+}
+/* --- ESTILOS DEL PANEL DE SIMULACRO --- */
+.header-simulacro { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; border-bottom: 1px solid #1e293b; padding-bottom: 15px; }
+.titulo-simulacro { display: flex; align-items: center; gap: 10px; }
+.titulo-simulacro h1 { font-size: 1.1rem; font-weight: 800; margin: 0; text-transform: uppercase; color: #f8fafc; }
+.titulo-simulacro p { font-size: 0.8rem; color: #94a3b8; margin: 0; }
+.badge-tiempo { background: #1e293b; color: #f8fafc; padding: 5px 10px; border-radius: 6px; font-weight: bold; }
+
+.bloque-config { border: none; padding: 0; margin-bottom: 25px; text-align: left; }
+.bloque-config > label { display: block; font-size: 0.85rem; font-weight: 700; color: #555; margin-bottom: 10px; text-transform: uppercase; }
+
+.input-grupo { position: relative; display: flex; align-items: center; }
+.input-grupo input { width: 100%; padding: 15px; border: 1px solid #ccc; border-radius: 8px; font-size: 1rem; }
+.info-disponibles { position: absolute; right: 15px; color: #555; font-size: 0.9rem; font-weight: bold; }
+
+.lista-temas { background-color: #f4f7f6; border: 1px solid #ccc; border-radius: 8px; max-height: 250px; overflow-y: auto; display: flex; flex-direction: column; }
+.tema-item { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #ddd; cursor: pointer; }
+.tema-item.maestro { background-color: #e2e8f0; font-weight: bold; }
+.tema-item input[type="checkbox"] { width: 20px; height: 20px; margin-right: 15px; cursor: pointer; }
+.tema-cantidad { color: #666; font-size: 0.85rem; margin-left: 5px; }
+
+.btn-comenzar-test { width: 100%; background-color: #10b981; color: white; padding: 16px; border: none; border-radius: 8px; font-size: 1.1rem; font-weight: bold; cursor: pointer; margin-top: 10px; }
+.btn-comenzar-test:disabled { background-color: #94a3b8; cursor: not-allowed; }
