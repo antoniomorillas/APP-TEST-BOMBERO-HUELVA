@@ -3068,10 +3068,10 @@
     },
     {
       "tema_id": "Test 501 preguntas",
-      "pregunta": "479. Al norte de Valdelarco se encuentra:",
+      "pregunta": "479. Al sur de Valdelarco se encuentra:",
       "opciones": ["A) Santa Ana la Real", "B) Aracena", "C) Los Marines", "D) Fuenteheridos"],
       "correcta": 3,
-      "explicacion": "Fuenteheridos se encuentra al norte de Valdelarco."
+      "explicacion": "Fuenteheridos se encuentra al sur de Valdelarco."
     },
     {
       "tema_id": "Test 501 preguntas",
