@@ -203,7 +203,7 @@
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Lucena tiene polígono?", "opciones": ["A) Sí", "B) No"], "correcta": 0, "explicacion": "Sí, La Pasadera."},
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Rociana tiene embalse?", "opciones": ["A) Sí", "B) No"], "correcta": 1, "explicacion": "No citado."},
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Qué es la Pasadera?", "opciones": ["A) Polígono", "B) Playa", "C) Mina", "D) Embalse"], "correcta": 0, "explicacion": "Polígono en Lucena."},
-  {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Niebla está al norte?", "opciones": ["A) Sí", "B) No"], "correcta": 0, "explicacion": "Sí, respecto a Bonares."},
+  {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Niebla está al norte de Bonares?", "opciones": ["A) Sí", "B) No"], "correcta": 0, "explicacion": "Sí, respecto a Bonares."},
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Qué parque cubre Bonares?", "opciones": ["A) BC-9", "B) BC-3", "C) BC-7", "D) BC-1"], "correcta": 0, "explicacion": "BC-9."},
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Qué parque cubre Lucena?", "opciones": ["A) BC-9", "B) BC-3", "C) BC-7", "D) BC-1"], "correcta": 0, "explicacion": "BC-9."},
   {"tema_id": "10_Ejes_Bonares_A484_A486", "pregunta": "¿Niebla tiene Cemento?", "opciones": ["A) Sí", "B) No"], "correcta": 0, "explicacion": "Sí."},
