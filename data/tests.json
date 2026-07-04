@@ -2166,7 +2166,7 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "350. ¿Cuál de las siguientes carreteras une los municipios de La Nava y Jabugo?:",
-      "opciones": [."A) N-435", "B) N-433", "C) N-430", "D) N-432"],
+      "opciones": ["A) N-435", "B) N-433", "C) N-430", "D) N-432"],
       "correcta": 0,
       "explicacion": "La N-435 conecta los municipios de La Nava y Jabugo."
     },
