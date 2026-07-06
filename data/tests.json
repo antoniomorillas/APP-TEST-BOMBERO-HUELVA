@@ -2978,9 +2978,9 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "466. Para acceder al municipio de Puebla de Guzman:",
-      "opciones": ["A) A traves de la N-491", "B) A traves de la N-431", "C) A traves de la N-435", "D) A traves de la N-492"],
+      "opciones": ["A) A traves de la A-491", "B) A traves de la A-431", "C) A traves de la A-499", "D) A traves de la A-492"],
       "correcta": 2,
-      "explicacion": "El acceso a Puebla de Guzmán se hace por la N-435."
+      "explicacion": "El acceso a Puebla de Guzmán se hace por la A-499."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -3209,9 +3209,9 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "499. Una de las siguientes carreteras atraviesa el Río Tamujoso a su paso por El Cerro de Andévalo:",
-      "opciones": ["A) HU-5400", "B) HU-5440", "C) Ninguna es correcta", "D) HU-5401"],
+      "opciones": ["A) HU-5400", "B) HU-5440", "C) Ninguna es correcta", "D) HU-5101"],
       "correcta": 3,
-      "explicacion": "La HU-5401 atraviesa el Río Tamujoso en El Cerro del Andévalo."
+      "explicacion": "La HU-5101 atraviesa el Río Tamujoso en El Cerro del Andévalo."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -3748,9 +3748,9 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "175. Carretera que atraviesa Cala:",
-      "opciones": ["A) La A-431", "B) La A-430", "C) La A-430", "D) La A-433"],
+      "opciones": ["A) La A-431", "B) La A-430", "C) La A-430", "D) La A-434"],
       "correcta": 3,
-      "explicacion": "La A-433 atraviesa Cala."
+      "explicacion": "La A-434 atraviesa Cala."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -3768,10 +3768,10 @@
     },
     {
       "tema_id": "Test 501 preguntas",
-      "pregunta": "178. ¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?:",
+      "pregunta": "178. ¿Cuál de los siguientes embalses se encuentra en el Campillo?:",
       "opciones": ["A) Marismillas", "B) Marismillas", "C) Zumajo", "D) Zufre"],
       "correcta": 2,
-      "explicacion": "El embalse de Zumajo se encuentra en Zalamea la Real."
+      "explicacion": "El embalse de Zumajo se encuentra en el Campillo."
     },
     {
       "tema_id": "Test 501 preguntas",
