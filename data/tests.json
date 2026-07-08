@@ -507,7 +507,7 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "13. Al municipio Alosno accederemos a través de:",
-      "opciones": ["A) A-490", "B) A-499", "C) A-495", "D) A-495"],
+      "opciones": ["A) A-490", "B) A-499", "C) A-491", "D) A-495"],
       "correcta": 3,
       "explicacion": "Accedemos al municipio de Alosno a través de la A-495."
     },
@@ -2067,10 +2067,10 @@
     },
     {
       "tema_id": "Test 501 preguntas",
-      "pregunta": "336. Forma parte del municipio Escacena del Campo:",
+      "pregunta": "336. Forma parte del municipio Paterna del Campo:",
       "opciones": ["A) Huerta del Vicario", "B) Domingo negro", "C) Puerto Blanco", "D) Tejada la Nueva"],
       "correcta": 3,
-      "explicacion": "Tejada la Nueva forma parte del municipio de Escacena del Campo."
+      "explicacion": "Tejada la Nueva forma parte del municipio de Paterna del Campo."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -2522,13 +2522,6 @@
     },
     {
       "tema_id": "Test 501 preguntas",
-      "pregunta": "401. Forma parte del municipio Valverde del Camino:",
-      "opciones": ["A) Corta atalaya", "B) La bota", "C) El Algarrobito", "D) Yac. Los Gabrieles"],
-      "correcta": 3,
-      "explicacion": "El yacimiento Los Gabrieles forma parte del municipio de Valverde del Camino."
-    },
-    {
-      "tema_id": "Test 501 preguntas",
       "pregunta": "402. Forma parte del municipio Hinojos:",
       "opciones": ["A) La Ladrillera", "B) Ventas de arriba", "C) Corterrangel", "D) Los Gallegos"],
       "correcta": 3,
@@ -2796,7 +2789,7 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "440. ¿Cual de los siguientes municipios linda con la A-484?:",
-      "opciones": ["A) Bonares", "B) Manzanilla", "C) Almonte", "D) Corte Concepcion"],
+      "opciones": ["A) Bonares", "B) Manzanilla", "C) Villarrasa", "D) Corte Concepcion"],
       "correcta": 0,
       "explicacion": "Bonares linda con la A-484."
     },
@@ -3196,8 +3189,8 @@
       "tema_id": "Test 501 preguntas",
       "pregunta": "497. ¿Cual de las siguientes carreteras une los municipios de Aracena y Carboneras?:",
       "opciones": ["A) HU-8129", "B) HU-8122", "C) HU-8126", "D) HU-8125"],
-      "correcta": 3,
-      "explicacion": "La HU-8125 une Aracena y Carboneras."
+      "correcta": 2,
+      "explicacion": "La HU-8126 une Aracena y Carboneras."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -3573,9 +3566,9 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "150. ¿Cuál de las siguientes carreteras une los municipios de Hinojales y Cortelazor?:",
-      "opciones": ["A) HU-9105", "B) HU-9101", "C) HU-9102", "D) HU-9121"],
+      "opciones": ["A) HU-9107", "B) HU-9101", "C) HU-9102", "D) HU-9121"],
       "correcta": 0,
-      "explicacion": "La HU-9105 une Hinojales y Cortelazor."
+      "explicacion": "La HU-9107 une Hinojales y Cortelazor."
     },
     {
       "tema_id": "Test 501 preguntas",
@@ -3797,21 +3790,21 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "182. Acceso desde Nerva a Minas de Riotinto:",
-      "opciones": ["A) A-470", "B) A-479", "C) A-470", "D) A-471"],
+      "opciones": ["A) A-476", "B) A-479", "C) A-470", "D) A-471"],
       "correcta": 0,
-      "explicacion": "La A-470 conecta Nerva y Minas de Riotinto."
+      "explicacion": "La A-476 conecta Nerva y Minas de Riotinto."
     },
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "183. ¿Cual de las siguientes carreteras une los municipios de Villalba del Alcor y Manzanilla?:",
-      "opciones": ["A) A-477", "B) A-473", "C) A-479", "D) A-478"],
+      "opciones": ["A) A-472", "B) A-473", "C) A-479", "D) A-478"],
       "correcta": 0,
-      "explicacion": "La A-477 une Villalba del Alcor y Manzanilla."
+      "explicacion": "La A-472 une Villalba del Alcor y Manzanilla."
     },
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "184. Carretera que atraviesa Aroche:",
-      "opciones": ["A) La N-431", "B) La N-433", "C) La N-430", "D) La N-433"],
+      "opciones": ["A) La N-431", "B) La N-433", "C) La N-430", "D) La N-432"],
       "correcta": 1,
       "explicacion": "La N-433 atraviesa Aroche."
     },
@@ -3860,7 +3853,7 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "191. ¿Cual de las siguientes carreteras une los municipios de Gibraleon y Cartaya?:",
-      "opciones": ["Α) Ν-431", "B) N-435", "C) N-433", "D) N-431"],
+      "opciones": ["Α) Ν-432", "B) N-435", "C) N-433", "D) N-431"],
       "correcta": 3,
       "explicacion": "La N-431 une Gibraleón y Cartaya."
     },
@@ -3874,9 +3867,9 @@
     {
       "tema_id": "Test 501 preguntas",
       "pregunta": "193. ¿Cual de los siguientes municipios linda con la A-472?:",
-      "opciones": ["A) Bollullos", "B) Minas de Riotinto", "C) Lepe", "D) Beas"],
+      "opciones": ["A) Bollullos", "B) Minas de Riotinto", "C) Lepe", "D) San Juan del Puerto"],
       "correcta": 3,
-      "explicacion": "Beas linda con la A-472."
+      "explicacion": "San Juan del Puerto linda con la A-472."
     },
     {
       "tema_id": "Test 501 preguntas",
