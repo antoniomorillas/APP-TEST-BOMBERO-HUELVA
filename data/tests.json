@@ -1021,8 +1021,7 @@
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 51": {
-    "pregunta": "Para acceder al municipio de Santa Ana la Real, ¿qué vía se utiliza?",
+    "pregunta 51": "Para acceder al municipio de Santa Ana la Real, ¿qué vía se utiliza?",
     "opciones": {
       "A": "HU-8100",
       "B": "Ninguna es correcta",
@@ -1032,8 +1031,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso oficial se realiza a través de la carretera HU-8105[cite: 1]."
   },
-  "pregunta 52": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Santa Ana la Real y El Cabezuelo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 52": "¿Cuál de las siguientes carreteras une los municipios de Santa Ana la Real y El Cabezuelo?",
     "opciones": {
       "A": "HU-8102",
       "B": "HU-8100",
@@ -1043,8 +1043,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La carretera HU-8105 une Santa Ana la Real y El Cabezuelo[cite: 1]."
   },
-  "pregunta 53": {
-    "pregunta": "Forma parte del municipio Zalamea la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 53": "Forma parte del municipio Zalamea la Real:",
     "opciones": {
       "A": "Matalascañas",
       "B": "El Pozuelo",
@@ -1054,8 +1055,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El Pozuelo es una localidad que forma parte del municipio de Zalamea la Real[cite: 1]."
   },
-  "pregunta 54": {
-    "pregunta": "Carretera que atraviesa Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 54": "Carretera que atraviesa Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-671",
@@ -1065,8 +1067,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 es la vía que atraviesa y da servicio a Rociana del Condado[cite: 1]."
   },
-  "pregunta 55": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Nerva?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 55": "¿Cuál de los siguientes embalses se encuentra en Nerva?",
     "opciones": {
       "A": "Puerto León",
       "B": "Marismillas",
@@ -1076,8 +1079,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El embalse de la Marismilla se encuentra en el término municipal de Nerva[cite: 1]."
   },
-  "pregunta 56": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Los Marines y Cortelazor?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 56": "¿Cuál de las siguientes carreteras une los municipios de Los Marines y Cortelazor?",
     "opciones": {
       "A": "HU-8100",
       "B": "HU-8181",
@@ -1087,8 +1091,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La HU-8122 es la carretera que une los municipios de Los Marines y Cortelazor[cite: 1]."
   },
-  "pregunta 57": {
-    "pregunta": "Para acceder al municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 57": "Para acceder al municipio de Almonte:",
     "opciones": {
       "A": "A-490",
       "B": "A-488",
@@ -1098,8 +1103,9 @@
     "respuesta_correcta": "D",
     "explicacion": "El acceso principal al municipio de Almonte es la carretera A-483[cite: 1]."
   },
-  "pregunta 58": {
-    "pregunta": "Acceso desde Hinojos a Chucena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 58": "Acceso desde Hinojos a Chucena:",
     "opciones": {
       "A": "A-481",
       "B": "A-488",
@@ -1109,8 +1115,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 es la vía de comunicación entre Hinojos y Chucena[cite: 1]."
   },
-  "pregunta 59": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Hinojos y Chucena?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 59": "¿Cuál de las siguientes carreteras une los municipios de Hinojos y Chucena?",
     "opciones": {
       "A": "A-489",
       "B": "A-487",
@@ -1120,8 +1127,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La carretera A-481 une los municipios de Hinojos y Chucena[cite: 1]."
   },
-  "pregunta 60": {
-    "pregunta": "Para acceder al municipio de Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 60": "Para acceder al municipio de Valverde del Camino:",
     "opciones": {
       "A": "N-431",
       "B": "N-449",
@@ -1131,8 +1139,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso principal a Valverde del Camino se realiza por la N-435[cite: 1]."
   },
-  "pregunta 61": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en La Palma del Condado?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 61": "¿Cuál de los siguientes embalses se encuentra en La Palma del Condado?",
     "opciones": {
       "A": "Corumbel Bajo",
       "B": "Zufre",
@@ -1142,8 +1151,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Embalse del Corumbel Bajo se encuentra en el término de La Palma del Condado[cite: 1]."
   },
-  "pregunta 62": {
-    "pregunta": "Carretera que atraviesa Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 62": "Carretera que atraviesa Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-476",
@@ -1153,8 +1163,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa el municipio de Niebla[cite: 1]."
   },
-  "pregunta 63": {
-    "pregunta": "Para acceder al municipio de La Nava:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 63": "Para acceder al municipio de La Nava:",
     "opciones": {
       "A": "N-432",
       "B": "N-445",
@@ -1164,8 +1175,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso al municipio de La Nava se realiza por la N-435[cite: 1]."
   },
-  "pregunta 64": {
-    "pregunta": "Al municipio Villanueva de las Cruces accederemos a través de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 64": "Al municipio Villanueva de las Cruces accederemos a través de:",
     "opciones": {
       "A": "A-475",
       "B": "A-478",
@@ -1175,8 +1187,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-475 es la vía de acceso principal a Villanueva de las Cruces[cite: 1]."
   },
-  "pregunta 65": {
-    "pregunta": "Al norte de Chucena se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 65": "Al norte de Chucena se encuentra:",
     "opciones": {
       "A": "Almonte",
       "B": "Palos de la Frontera",
@@ -1186,8 +1199,9 @@
     "respuesta_correcta": "D",
     "explicacion": "Paterna del Campo se ubica geográficamente al norte de Chucena[cite: 1]."
   },
-  "pregunta 66": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 66": "¿Cuál de los siguientes embalses se encuentra en Almonaster la Real?",
     "opciones": {
       "A": "Aracena",
       "B": "La Pelada",
@@ -1197,8 +1211,9 @@
     "respuesta_correcta": "D",
     "explicacion": "El embalse de Olivargas se encuentra en Almonaster la Real[cite: 1]."
   },
-  "pregunta 67": {
-    "pregunta": "Al norte de Nerva se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 67": "Al norte de Nerva se encuentra:",
     "opciones": {
       "A": "Calañas",
       "B": "Campofrío",
@@ -1208,8 +1223,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Campofrío se ubica geográficamente al norte de Nerva[cite: 1]."
   },
-  "pregunta 68": {
-    "pregunta": "Acceso desde Zalamea la Real a Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 68": "Acceso desde Zalamea la Real a Valverde del Camino:",
     "opciones": {
       "A": "N-431",
       "B": "N-439",
@@ -1219,8 +1235,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La N-435 es la carretera que conecta Zalamea la Real con Valverde del Camino[cite: 1]."
   },
-  "pregunta 69": {
-    "pregunta": "Acceso desde La Dehesa a El Lirio:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 69": "Acceso desde La Dehesa a El Lirio:",
     "opciones": {
       "A": "A-493",
       "B": "A-490",
@@ -1230,8 +1247,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-493 es la vía de conexión para acceder a la zona de El Lirio[cite: 1]."
   },
-  "pregunta 70": {
-    "pregunta": "Forma parte del municipio San Bartolomé de la Torre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 70": "Forma parte del municipio San Bartolomé de la Torre:",
     "opciones": {
       "A": "Minas de Almagrera",
       "B": "Huerta del Vicario",
@@ -1241,8 +1259,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Huerta del Vicario figura como núcleo dentro del término de San Bartolomé de la Torre[cite: 1]."
   },
-  "pregunta 71": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Niebla?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 71": "¿Cuál de los siguientes embalses se encuentra en Niebla?",
     "opciones": {
       "A": "Candón",
       "B": "Corumbel Bajo",
@@ -1252,8 +1271,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Candón se encuentra dentro del término municipal de Niebla[cite: 1]."
   },
-  "pregunta 72": {
-    "pregunta": "Para acceder al municipio de Berrocal:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 72": "Para acceder al municipio de Berrocal:",
     "opciones": {
       "A": "Ninguna es correcta",
       "B": "HU-6107",
@@ -1263,8 +1283,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso oficial al municipio de Berrocal es a través de la HU-6107[cite: 1]."
   },
-  "pregunta 73": {
-    "pregunta": "Acceso desde Villablanca a San Silvestre de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 73": "Acceso desde Villablanca a San Silvestre de Guzmán:",
     "opciones": {
       "A": "A-494",
       "B": "A-499",
@@ -1274,8 +1295,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-499 comunica Villablanca con San Silvestre de Guzmán[cite: 1]."
   },
-  "pregunta 74": {
-    "pregunta": "Para acceder al municipio de Zufre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 74": "Para acceder al municipio de Zufre:",
     "opciones": {
       "A": "Ninguna es correcta",
       "B": "A-466",
@@ -1285,8 +1307,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso al municipio de Zufre se realiza a través de la A-461[cite: 1]."
   },
-  "pregunta 75": {
-    "pregunta": "Acceso desde Nerva a Peña de Hierro:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 75": "Acceso desde Nerva a Peña de Hierro:",
     "opciones": {
       "A": "HU-6105",
       "B": "HU-6161",
@@ -1295,290 +1318,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Peña de Hierro se realiza por la HU-6105[cite: 1]."
-  }
-},
+  },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 51": {
-    "pregunta": "Para acceder al municipio de Santa Ana la Real, ¿qué vía se utiliza?",
-    "opciones": {
-      "A": "HU-8100",
-      "B": "Ninguna es correcta",
-      "C": "HU-8105",
-      "D": "HU-8110"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "El acceso oficial al municipio de Santa Ana la Real se realiza a través de la carretera HU-8105."
-  },
-  "pregunta 52": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Santa Ana la Real y El Cabezuelo?",
-    "opciones": {
-      "A": "HU-8102",
-      "B": "HU-8100",
-      "C": "HU-8122",
-      "D": "HU-8105"
-    },
-    "respuesta_correcta": "D",
-    "explicacion": "La carretera HU-8105 une los núcleos de Santa Ana la Real y El Cabezuelo."
-  },
-  "pregunta 53": {
-    "pregunta": "Forma parte del municipio de Zalamea la Real:",
-    "opciones": {
-      "A": "Matalascañas",
-      "B": "El Pozuelo",
-      "C": "El Sapo",
-      "D": "Mazagón"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "El Pozuelo es una localidad que forma parte del municipio de Zalamea la Real."
-  },
-  "pregunta 54": {
-    "pregunta": "Carretera que atraviesa Rociana del Condado:",
-    "opciones": {
-      "A": "A-484",
-      "B": "A-671",
-      "C": "A-473",
-      "D": "A-461"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "La A-484 es la vía que atraviesa y da servicio al municipio de Rociana del Condado."
-  },
-  "pregunta 55": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Nerva?",
-    "opciones": {
-      "A": "Puerto León",
-      "B": "Marismillas",
-      "C": "Corumbel Bajo",
-      "D": "Olivargas"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "El embalse de la Marismilla se encuentra en el término municipal de Nerva."
-  },
-  "pregunta 56": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Los Marines y Cortelazor?",
-    "opciones": {
-      "A": "HU-8100",
-      "B": "HU-8181",
-      "C": "HU-8122",
-      "D": "HU-8129"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "La HU-8122 es la carretera que une los municipios de Los Marines y Cortelazor."
-  },
-  "pregunta 57": {
-    "pregunta": "Para acceder al municipio de Almonte:",
-    "opciones": {
-      "A": "A-490",
-      "B": "A-488",
-      "C": "Ninguna es correcta",
-      "D": "A-483"
-    },
-    "respuesta_correcta": "D",
-    "explicacion": "El acceso principal al municipio de Almonte es la carretera A-483."
-  },
-  "pregunta 58": {
-    "pregunta": "Acceso desde Hinojos a Chucena:",
-    "opciones": {
-      "A": "A-481",
-      "B": "A-488",
-      "C": "A-484",
-      "D": "A-480"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "La A-481 es la vía de comunicación directa entre Hinojos y Chucena."
-  },
-  "pregunta 59": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Hinojos y Chucena?",
-    "opciones": {
-      "A": "A-489",
-      "B": "A-487",
-      "C": "A-488",
-      "D": "A-481"
-    },
-    "respuesta_correcta": "D",
-    "explicacion": "La carretera A-481 es la vía que une los municipios de Hinojos y Chucena."
-  },
-  "pregunta 60": {
-    "pregunta": "Para acceder al municipio de Valverde del Camino:",
-    "opciones": {
-      "A": "N-431",
-      "B": "N-449",
-      "C": "N-435",
-      "D": "Ninguna es correcta"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "El acceso principal a Valverde del Camino se realiza por la N-435."
-  },
-  "pregunta 61": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en La Palma del Condado?",
-    "opciones": {
-      "A": "Corumbel Bajo",
-      "B": "Zufre",
-      "C": "La Pelada",
-      "D": "Murtiguillas"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "El Embalse del Corumbel Bajo se encuentra en el término de La Palma del Condado."
-  },
-  "pregunta 62": {
-    "pregunta": "Carretera que atraviesa Niebla:",
-    "opciones": {
-      "A": "A-472",
-      "B": "A-476",
-      "C": "A-478",
-      "D": "A-461"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "La A-472 es la vía principal que atraviesa el municipio de Niebla."
-  },
-  "pregunta 63": {
-    "pregunta": "Para acceder al municipio de La Nava:",
-    "opciones": {
-      "A": "N-432",
-      "B": "N-445",
-      "C": "N-435",
-      "D": "Ninguna es correcta"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "El acceso al municipio de La Nava se realiza por la N-435."
-  },
-  "pregunta 64": {
-    "pregunta": "Al municipio Villanueva de las Cruces accederemos a través de:",
-    "opciones": {
-      "A": "A-475",
-      "B": "A-478",
-      "C": "A-472",
-      "D": "A-471"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "La A-475 es la vía de acceso principal a Villanueva de las Cruces."
-  },
-  "pregunta 65": {
-    "pregunta": "Al norte de Chucena se encuentra:",
-    "opciones": {
-      "A": "Almonte",
-      "B": "Palos de la Frontera",
-      "C": "Hinojos",
-      "D": "Paterna del Campo"
-    },
-    "respuesta_correcta": "D",
-    "explicacion": "Paterna del Campo se ubica geográficamente al norte de Chucena."
-  },
-  "pregunta 66": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Almonaster la Real?",
-    "opciones": {
-      "A": "Aracena",
-      "B": "La Pelada",
-      "C": "Zufre",
-      "D": "Olivargas"
-    },
-    "respuesta_correcta": "D",
-    "explicacion": "El embalse de Olivargas se encuentra en Almonaster la Real."
-  },
-  "pregunta 67": {
-    "pregunta": "Al norte de Nerva se encuentra:",
-    "opciones": {
-      "A": "Calañas",
-      "B": "Campofrío",
-      "C": "Los Delgados",
-      "D": "Valverde del Camino"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "Campofrío se ubica geográficamente al norte de Nerva."
-  },
-  "pregunta 68": {
-    "pregunta": "Acceso desde Zalamea la Real a Valverde del Camino:",
-    "opciones": {
-      "A": "N-431",
-      "B": "N-439",
-      "C": "N-435",
-      "D": "N-433"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "La N-435 es la carretera que conecta Zalamea la Real con Valverde del Camino."
-  },
-  "pregunta 69": {
-    "pregunta": "Acceso desde La Dehesa a El Lirio:",
-    "opciones": {
-      "A": "A-493",
-      "B": "A-490",
-      "C": "A-492",
-      "D": "A-498"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "La A-493 es la vía de conexión para acceder a la zona de El Lirio."
-  },
-  "pregunta 70": {
-    "pregunta": "Forma parte del municipio San Bartolomé de la Torre:",
-    "opciones": {
-      "A": "Minas de Almagrera",
-      "B": "Huerta del Vicario",
-      "C": "Sotiel Coronada",
-      "D": "Tujena"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "Huerta del Vicario figura como núcleo dentro del término de San Bartolomé de la Torre."
-  },
-  "pregunta 71": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Niebla?",
-    "opciones": {
-      "A": "Candón",
-      "B": "Corumbel Bajo",
-      "C": "Marismillas",
-      "D": "Zalamea"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "El embalse de Candón se encuentra dentro del término municipal de Niebla."
-  },
-  "pregunta 72": {
-    "pregunta": "Para acceder al municipio de Berrocal:",
-    "opciones": {
-      "A": "Ninguna es correcta",
-      "B": "HU-6107",
-      "C": "HU-6118",
-      "D": "HU-6161"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "El acceso oficial al municipio de Berrocal es a través de la HU-6107."
-  },
-  "pregunta 73": {
-    "pregunta": "Acceso desde Villablanca a San Silvestre de Guzmán:",
-    "opciones": {
-      "A": "A-494",
-      "B": "A-499",
-      "C": "A-944",
-      "D": "A-490"
-    },
-    "respuesta_correcta": "B",
-    "explicacion": "La A-499 comunica Villablanca con San Silvestre de Guzmán."
-  },
-  "pregunta 74": {
-    "pregunta": "Para acceder al municipio de Zufre:",
-    "opciones": {
-      "A": "Ninguna es correcta",
-      "B": "A-466",
-      "C": "A-461",
-      "D": "A-404"
-    },
-    "respuesta_correcta": "C",
-    "explicacion": "El acceso al municipio de Zufre se realiza a través de la A-461."
-  },
-  "pregunta 75": {
-    "pregunta": "Acceso desde Nerva a Peña de Hierro:",
-    "opciones": {
-      "A": "HU-6105",
-      "B": "HU-6161",
-      "C": "HU-6109",
-      "D": "HU-6160"
-    },
-    "respuesta_correcta": "A",
-    "explicacion": "El acceso a Peña de Hierro se realiza por la HU-6105."
-  }
-},
-{
-  "tema_id": "Test 501 preguntas",
-  "pregunta 76": {
-    "pregunta": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
+    "pregunta 76": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
     "opciones": {
       "A": "A-492",
       "B": "N-435",
@@ -1588,8 +1331,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La A-495 es el eje principal que conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 77": {
-    "pregunta": "El embalse del Chanza se encuentra en el término municipal de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 77": "El embalse del Chanza se encuentra en el término municipal de:",
     "opciones": {
       "A": "Puebla de Guzmán",
       "B": "El Almendro",
@@ -1599,8 +1343,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Chanza se localiza en el término municipal de Puebla de Guzmán."
   },
-  "pregunta 78": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta78": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
     "opciones": {
       "A": "A-495",
       "B": "A-496",
@@ -1610,8 +1355,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-496 es la vía principal de conexión entre Valverde del Camino y Cabezas Rubias."
   },
-  "pregunta 79": {
-    "pregunta": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 79": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
     "opciones": {
       "A": "El Patrás",
       "B": "Castaño del Robledo",
@@ -1621,8 +1367,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Patrás es una aldea perteneciente al municipio de Almonaster la Real."
   },
-  "pregunta 80": {
-    "pregunta": "Vía que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 80": "Vía que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -1632,8 +1379,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la carretera principal que atraviesa Aracena."
   },
-  "pregunta 81": {
-    "pregunta": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 81": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -1643,8 +1391,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 comunica Aroche con Rosal de la Frontera."
   },
-  "pregunta 82": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 82": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8105",
       "B": "HU-8110",
@@ -1654,8 +1403,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso al municipio de Castaño del Robledo se realiza a través de la carretera HU-8110."
   },
-  "pregunta 83": {
-    "pregunta": "Al este de Aracena se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta83": "Al este de Aracena se encuentra el municipio de:",
     "opciones": {
       "A": "Puerto Moral",
       "B": "Cortegana",
@@ -1665,8 +1415,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Puerto Moral se sitúa al este del término municipal de Aracena."
   },
-  "pregunta 84": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 84": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -1676,8 +1427,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que atraviesa el municipio de Beas."
   },
-  "pregunta 85": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 85": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -1687,8 +1439,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de la Melera se sitúa en el término municipal de Cortegana."
   },
-  "pregunta 86": {
-    "pregunta": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 86": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -1698,8 +1451,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 une Cala y Santa Olalla del Cala."
   },
-  "pregunta 87": {
-    "pregunta": "Al norte de Cortelazor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 87": "Al norte de Cortelazor se encuentra:",
     "opciones": {
       "A": "Aracena",
       "B": "Los Marines",
@@ -1709,8 +1463,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Los Marines se ubica al norte de Cortelazor."
   },
-  "pregunta 88": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 88": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -1720,8 +1475,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 89": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 89": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -1731,8 +1487,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía principal de acceso a El Almendro."
   },
-  "pregunta 90": {
-    "pregunta": "Carretera que une Bonares con Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 90": "Carretera que une Bonares con Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -1742,8 +1499,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La HU-4100 comunica Bonares con Rociana del Condado."
   },
-  "pregunta 91": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 91": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
     "opciones": {
       "A": "Embalse de Paymogo",
       "B": "Embalse del Chanza",
@@ -1753,8 +1511,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Paymogo se localiza en dicho municipio."
   },
-  "pregunta 92": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 92": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "Alosno",
       "B": "Paymogo",
@@ -1764,8 +1523,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Paymogo se sitúa al oeste de Puebla de Guzmán."
   },
-  "pregunta 93": {
-    "pregunta": "Vía que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 93": "Vía que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -1775,8 +1535,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 94": {
-    "pregunta": "Para acceder al municipio de Jabugo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 94": "Para acceder al municipio de Jabugo:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -1786,8 +1547,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Jabugo se realiza principalmente por la N-433."
   },
-  "pregunta 95": {
-    "pregunta": "Acceso desde Cartaya a El Rompido:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 95": "Acceso desde Cartaya a El Rompido:",
     "opciones": {
       "A": "HU-3402",
       "B": "HU-3401",
@@ -1797,8 +1559,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3402 comunica Cartaya con El Rompido."
   },
-  "pregunta 96": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 96": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
     "opciones": {
       "A": "N-431",
       "B": "N-435",
@@ -1808,8 +1571,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es el eje principal de comunicación entre Huelva y Gibraleón."
   },
-  "pregunta 97": {
-    "pregunta": "Al sur de Calañas se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 97": "Al sur de Calañas se encuentra el municipio de:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Valverde del Camino",
@@ -1819,8 +1583,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Zalamea la Real se sitúa al sur de Calañas."
   },
-  "pregunta 98": {
-    "pregunta": "Carretera que atraviesa Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 98": "Carretera que atraviesa Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -1830,8 +1595,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villarrasa."
   },
-  "pregunta 99": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 99": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -1841,8 +1607,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal de acceso a Rosal de la Frontera."
   },
-  "pregunta 100": {
-    "pregunta": "Acceso desde Lepe a La Antilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 100": "Acceso desde Lepe a La Antilla:",
     "opciones": {
       "A": "HU-3301",
       "B": "HU-3300",
@@ -1851,12 +1618,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La HU-3301 es la vía de comunicación entre Lepe y La Antilla."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 101": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de Fuenteheridos?",
+    "pregunta 101": "¿Cuál es la vía principal de acceso a la localidad de Fuenteheridos?",
     "opciones": {
       "A": "N-433",
       "B": "HU-8105",
@@ -1866,8 +1631,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal de acceso a Fuenteheridos."
   },
-  "pregunta 102": {
-    "pregunta": "Carretera que conecta los municipios de Beas y Trigueros:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 102": "Carretera que conecta los municipios de Beas y Trigueros:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -1877,8 +1643,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es el eje que conecta los municipios de Beas y Trigueros."
   },
-  "pregunta 103": {
-    "pregunta": "¿Qué municipio se encuentra al este de Paterna del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 103": "¿Qué municipio se encuentra al este de Paterna del Campo?",
     "opciones": {
       "A": "Escacena del Campo",
       "B": "Chucena",
@@ -1888,8 +1655,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Escacena del Campo se ubica al este de Paterna del Campo."
   },
-  "pregunta 104": {
-    "pregunta": "Para acceder al municipio de Almonaster la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 104": "Para acceder al municipio de Almonaster la Real:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -1899,8 +1667,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso principal a Almonaster la Real se realiza a través de la N-435."
   },
-  "pregunta 105": {
-    "pregunta": "Vía que une los municipios de Gibraleón y Trigueros:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 105": "Vía que une los municipios de Gibraleón y Trigueros:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -1910,8 +1679,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que une Gibraleón y Trigueros."
   },
-  "pregunta 106": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Hinojos?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 106": "¿Cuál de los siguientes embalses se encuentra en Hinojos?",
     "opciones": {
       "A": "Embalse de Hinojos",
       "B": "Embalse de la Marismilla",
@@ -1921,8 +1691,9 @@
     "respuesta_correcta": "D",
     "explicacion": "No existe un embalse de importancia operativa en el término de Hinojos según el documento."
   },
-  "pregunta 107": {
-    "pregunta": "Carretera que atraviesa el municipio de Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 107": "Carretera que atraviesa el municipio de Bonares:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -1932,8 +1703,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 atraviesa el municipio de Bonares."
   },
-  "pregunta 108": {
-    "pregunta": "Acceso desde Alájar a Santa Ana la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 108": "Acceso desde Alájar a Santa Ana la Real:",
     "opciones": {
       "A": "HU-8105",
       "B": "HU-8122",
@@ -1943,8 +1715,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8105 conecta los municipios de Alájar y Santa Ana la Real."
   },
-  "pregunta 109": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Cala y Arroyomolinos de León?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 109": "¿Cuál de las siguientes carreteras une los municipios de Cala y Arroyomolinos de León?",
     "opciones": {
       "A": "A-434",
       "B": "HU-6101",
@@ -1954,8 +1727,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-434 une los municipios de Cala y Arroyomolinos de León."
   },
-  "pregunta 110": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 110": "Para acceder al municipio de Cabezas Rubias:",
     "opciones": {
       "A": "A-495",
       "B": "A-496",
@@ -1965,8 +1739,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 permite el acceso al municipio de Cabezas Rubias."
   },
-  "pregunta 111": {
-    "pregunta": "Al norte de Gibraleón se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 111": "Al norte de Gibraleón se encuentra:",
     "opciones": {
       "A": "San Bartolomé de la Torre",
       "B": "Alosno",
@@ -1976,8 +1751,9 @@
     "respuesta_correcta": "A",
     "explicacion": "San Bartolomé de la Torre se sitúa al norte de Gibraleón."
   },
-  "pregunta 112": {
-    "pregunta": "Carretera que atraviesa el municipio de Moguer:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 112": "Carretera que atraviesa el municipio de Moguer:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -1987,8 +1763,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía que atraviesa el municipio de Moguer."
   },
-  "pregunta 113": {
-    "pregunta": "Acceso desde Manzanilla a Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 113": "Acceso desde Manzanilla a Escacena del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -1998,8 +1775,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta Manzanilla con Escacena del Campo."
   },
-  "pregunta 114": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Zufre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 114": "¿Cuál de los siguientes embalses se encuentra en Zufre?",
     "opciones": {
       "A": "Embalse de Zufre",
       "B": "Embalse de Aracena",
@@ -2009,8 +1787,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Zufre se localiza en el término de Zufre."
   },
-  "pregunta 115": {
-    "pregunta": "Para acceder al municipio de Jabugo desde Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 115": "Para acceder al municipio de Jabugo desde Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -2020,8 +1799,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal que comunica Aracena y Jabugo."
   },
-  "pregunta 116": {
-    "pregunta": "Carretera que une los municipios de Puebla de Guzmán y El Almendro:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 116": "Carretera que une los municipios de Puebla de Guzmán y El Almendro:",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -2031,8 +1811,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía que une Puebla de Guzmán y El Almendro."
   },
-  "pregunta 117": {
-    "pregunta": "¿Qué municipio se encuentra al sur de Calañas?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 117": "¿Qué municipio se encuentra al sur de Calañas?",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Valverde del Camino",
@@ -2042,8 +1823,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Valverde del Camino se ubica geográficamente al sur de Calañas."
   },
-  "pregunta 118": {
-    "pregunta": "Acceso al municipio de Arroyomolinos de León:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 118": "Acceso al municipio de Arroyomolinos de León:",
     "opciones": {
       "A": "A-434",
       "B": "A-433",
@@ -2053,8 +1835,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-434 permite el acceso principal a Arroyomolinos de León."
   },
-  "pregunta 119": {
-    "pregunta": "Vía principal que atraviesa el municipio de Paymogo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 119": "Vía principal que atraviesa el municipio de Paymogo:",
     "opciones": {
       "A": "A-496",
       "B": "HU-7104",
@@ -2064,8 +1847,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal que atraviesa Paymogo."
   },
-  "pregunta 120": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en El Cerro de Andévalo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 120": "¿Cuál de los siguientes embalses se encuentra en El Cerro de Andévalo?",
     "opciones": {
       "A": "Embalse del Andévalo",
       "B": "Embalse de la Melera",
@@ -2075,8 +1859,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Andévalo se localiza en El Cerro de Andévalo."
   },
-  "pregunta 121": {
-    "pregunta": "Acceso desde Alosno a Tharsis:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 121": "Acceso desde Alosno a Tharsis:",
     "opciones": {
       "A": "HU-7104",
       "B": "A-495",
@@ -2086,8 +1871,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-7104 comunica Alosno con Tharsis."
   },
-  "pregunta 122": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 122": "¿Qué carretera atraviesa el municipio de Cortegana?",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -2097,8 +1883,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal que atraviesa Cortegana."
   },
-  "pregunta 123": {
-    "pregunta": "Al norte de Jabugo se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 123": "Al norte de Jabugo se encuentra:",
     "opciones": {
       "A": "Castaño del Robledo",
       "B": "Los Marines",
@@ -2108,8 +1895,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Castaño del Robledo se ubica al norte de Jabugo."
   },
-  "pregunta 124": {
-    "pregunta": "Para acceder al municipio de La Granada de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 124": "Para acceder al municipio de La Granada de Riotinto:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -2119,8 +1907,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía principal de acceso a La Granada de Riotinto."
   },
-  "pregunta 125": {
-    "pregunta": "Acceso desde Villarrasa a Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 125": "Acceso desde Villarrasa a Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -2129,12 +1918,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Villarrasa con Niebla."
-  }
 },
 {
-  "tema_id": "Test 501 preguntas",
-  "pregunta 126": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de La Granada de Riotinto?",
+  "tema_id": "Test 501 preguntas", 
+    "pregunta 126": "¿Cuál es la vía principal de acceso a la localidad de La Granada de Riotinto?",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -2144,8 +1931,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía principal que permite el acceso a La Granada de Riotinto."
   },
-  "pregunta 127": {
-    "pregunta": "Carretera que conecta los municipios de Chucena y Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 127": "Carretera que conecta los municipios de Chucena y Hinojos:",
     "opciones": {
       "A": "A-481",
       "B": "A-474",
@@ -2155,8 +1943,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 es la vía de comunicación directa entre Chucena y Hinojos."
   },
-  "pregunta 128": {
-    "pregunta": "¿Qué municipio se encuentra al este de Escacena del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 128": "¿Qué municipio se encuentra al este de Escacena del Campo?",
     "opciones": {
       "A": "Paterna del Campo",
       "B": "Manzanilla",
@@ -2166,8 +1955,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Chucena se ubica geográficamente al este de Escacena del Campo."
   },
-  "pregunta 129": {
-    "pregunta": "Para acceder al municipio de Paymogo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 129": "Para acceder al municipio de Paymogo:",
     "opciones": {
       "A": "A-496",
       "B": "HU-7104",
@@ -2177,8 +1967,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal de acceso al municipio de Paymogo."
   },
-  "pregunta 130": {
-    "pregunta": "Vía que une los municipios de Aracena y Cortelazor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 130": "Vía que une los municipios de Aracena y Cortelazor:",
     "opciones": {
       "A": "HU-8100",
       "B": "HU-8122",
@@ -2188,8 +1979,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8100 es la carretera que une los municipios de Aracena y Cortelazor."
   },
-  "pregunta 131": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Villarrasa?",
+  {
+  "tema_id": "Test 501 preguntas", 
+    "pregunta 131": "¿Cuál de los siguientes embalses se encuentra en Villarrasa?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -2199,8 +1991,9 @@
     "respuesta_correcta": "D",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de Villarrasa según el documento."
   },
-  "pregunta 132": {
-    "pregunta": "Carretera que atraviesa el municipio de Aljaraque:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 132": "Carretera que atraviesa el municipio de Aljaraque:",
     "opciones": {
       "A": "A-492",
       "B": "N-431",
@@ -2210,8 +2003,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La A-497 es la vía que atraviesa y da servicio al municipio de Aljaraque."
   },
-  "pregunta 133": {
-    "pregunta": "Acceso desde Valverde del Camino a Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 133": "Acceso desde Valverde del Camino a Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-493",
@@ -2221,8 +2015,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que conecta Valverde del Camino con Beas."
   },
-  "pregunta 134": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Puebla de Guzmán y Cabezas Rubias?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 134": "¿Cuál de las siguientes carreteras une los municipios de Puebla de Guzmán y Cabezas Rubias?",
     "opciones": {
       "A": "A-495",
       "B": "HU-5100",
@@ -2232,8 +2027,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 comunica Puebla de Guzmán con Cabezas Rubias."
   },
-  "pregunta 135": {
-    "pregunta": "Para acceder al municipio de Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 135": "Para acceder al municipio de Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -2243,8 +2039,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 es la vía principal de acceso a Santa Olalla del Cala."
   },
-  "pregunta 136": {
-    "pregunta": "Al norte de Aracena se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 136": "Al norte de Aracena se encuentra:",
     "opciones": {
       "A": "Los Marines",
       "B": "Castaño del Robledo",
@@ -2254,8 +2051,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Los Marines se ubica al norte de Aracena."
   },
-  "pregunta 137": {
-    "pregunta": "Carretera que atraviesa el municipio de Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 137": "Carretera que atraviesa el municipio de Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -2265,8 +2063,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía principal que atraviesa el municipio de Palos de la Frontera."
   },
-  "pregunta 138": {
-    "pregunta": "Acceso desde Nerva a Minas de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 138": "Acceso desde Nerva a Minas de Riotinto:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -2276,8 +2075,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía de comunicación entre Nerva y Minas de Riotinto."
   },
-  "pregunta 139": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 139": "¿Cuál de los siguientes embalses se encuentra en Almonaster la Real?",
     "opciones": {
       "A": "Embalse de Olivargas",
       "B": "Embalse de la Melera",
@@ -2287,8 +2087,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Olivargas se localiza en el término de Almonaster la Real."
   },
-  "pregunta 140": {
-    "pregunta": "Para acceder al municipio de El Campillo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 140": "Para acceder al municipio de El Campillo:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -2298,8 +2099,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 permite el acceso principal al municipio de El Campillo."
   },
-  "pregunta 141": {
-    "pregunta": "Carretera que une los municipios de Gibraleón y Trigueros:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 141": "Carretera que une los municipios de Gibraleón y Trigueros:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -2309,8 +2111,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía de conexión entre Gibraleón y Trigueros."
   },
-  "pregunta 142": {
-    "pregunta": "Al sur de Valverde del Camino se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 142": "Al sur de Valverde del Camino se encuentra:",
     "opciones": {
       "A": "Trigueros",
       "B": "Beas",
@@ -2320,8 +2123,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Niebla se ubica geográficamente al sur de Valverde del Camino."
   },
-  "pregunta 143": {
-    "pregunta": "Acceso al municipio de Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 143": "Acceso al municipio de Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -2331,8 +2135,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 es la vía principal de acceso al municipio de Manzanilla."
   },
-  "pregunta 144": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Cartaya y Gibraleón?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 144": "¿Cuál de las siguientes carreteras une los municipios de Cartaya y Gibraleón?",
     "opciones": {
       "A": "N-431",
       "B": "A-492",
@@ -2342,8 +2147,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es la carretera que une los municipios de Cartaya y Gibraleón."
   },
-  "pregunta 145": {
-    "pregunta": "Para acceder al municipio de Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 145": "Para acceder al municipio de Cala:",
     "opciones": {
       "A": "A-434",
       "B": "A-461",
@@ -2353,8 +2159,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-434 permite el acceso principal al municipio de Cala."
   },
-  "pregunta 146": {
-    "pregunta": "Acceso desde Bonares a Lucena del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 146": "Acceso desde Bonares a Lucena del Puerto:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-494",
@@ -2364,8 +2171,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 es la vía de comunicación entre Bonares y Lucena del Puerto."
   },
-  "pregunta 147": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 147": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -2375,8 +2183,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía principal que atraviesa el municipio de Beas."
   },
-  "pregunta 148": {
-    "pregunta": "¿Qué municipio se encuentra al norte de Alosno?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 148": "¿Qué municipio se encuentra al norte de Alosno?",
     "opciones": {
       "A": "Tharsis",
       "B": "Calañas",
@@ -2386,8 +2195,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Calañas se ubica al norte de Alosno."
   },
-  "pregunta 149": {
-    "pregunta": "Para acceder al municipio de San Silvestre de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 149": "Para acceder al municipio de San Silvestre de Guzmán:",
     "opciones": {
       "A": "A-499",
       "B": "A-490",
@@ -2397,8 +2207,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-499 permite el acceso al municipio de San Silvestre de Guzmán."
   },
-  "pregunta 150": {
-    "pregunta": "Acceso desde Paterna del Campo a Chucena:",
+  {
+  "tema_id": "Test 501 preguntas", 
+    "pregunta 150": "Acceso desde Paterna del Campo a Chucena:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -2407,12 +2218,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta Paterna del Campo con Chucena."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 151": {
-    "pregunta": "Para acceder al municipio de Santa Ana la Real, ¿qué vía se utiliza?",
+    "pregunta 151": "Para acceder al municipio de Santa Ana la Real, ¿qué vía se utiliza?",
     "opciones": {
       "A": "HU-8100",
       "B": "Ninguna es correcta",
@@ -2422,8 +2231,9 @@
     "respuesta_correcta": "C",
     "explicacion": "El acceso al municipio de Santa Ana la Real se realiza a través de la carretera HU-8105[cite: 1]."
   },
-  "pregunta 152": {
-    "pregunta": "¿Cual de los siguientes municipios linda con la A-475?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 152": "¿Cual de los siguientes municipios linda con la A-475?:",
     "opciones": {
       "A": "Moguer",
       "B": "San Juan del Puerto",
@@ -2433,8 +2243,9 @@
     "respuesta_correcta": "D",
     "explicacion": "Villanueva de las Cruces linda geográficamente con la A-475[cite: 1]."
   },
-  "pregunta 153": {
-    "pregunta": "¿Cual de los siguientes municipios linda con la A-494?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 153": "¿Cual de los siguientes municipios linda con la A-494?:",
     "opciones": {
       "A": "Nerva",
       "B": "Calabazares",
@@ -2444,8 +2255,9 @@
     "respuesta_correcta": "D",
     "explicacion": "Las Madres del Avitor figuran en el ámbito de actuación de la A-494[cite: 1]."
   },
-  "pregunta 154": {
-    "pregunta": "Carretera que atraviesa Santa Bárbara de Casas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 154": "Carretera que atraviesa Santa Bárbara de Casas:",
     "opciones": {
       "A": "La A-495",
       "B": "La A-421",
@@ -2455,8 +2267,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es la carretera que atraviesa Santa Bárbara de Casas[cite: 1]."
   },
-  "pregunta 155": {
-    "pregunta": "Para acceder al municipio de San Bartolomé de la Torre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 155": "Para acceder al municipio de San Bartolomé de la Torre:",
     "opciones": {
       "A": "N-447",
       "B": "A-495",
@@ -2466,8 +2279,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso al municipio de San Bartolomé de la Torre se realiza por la A-495[cite: 1]."
   },
-  "pregunta 156": {
-    "pregunta": "Carretera que atraviesa Chucena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta156": "Carretera que atraviesa Chucena:",
     "opciones": {
       "A": "La A-431",
       "B": "La A-481",
@@ -2477,8 +2291,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-481 es la vía principal que atraviesa Chucena[cite: 1]."
   },
-  "pregunta 157": {
-    "pregunta": "Forma parte del municipio de Alosno:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 157": "Forma parte del municipio de Alosno:",
     "opciones": {
       "A": "Caballón",
       "B": "Rabo-conejo",
@@ -2488,8 +2303,9 @@
     "respuesta_correcta": "D",
     "explicacion": "Tharsis es un núcleo de población que forma parte del municipio de Alosno[cite: 1]."
   },
-  "pregunta 158": {
-    "pregunta": "Forma parte del municipio de Minas de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 158": "Forma parte del municipio de Minas de Riotinto:",
     "opciones": {
       "A": "Corta Atalaya",
       "B": "Tharsis",
@@ -2499,8 +2315,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Corta Atalaya es una zona vinculada al municipio de Minas de Riotinto[cite: 1]."
   },
-  "pregunta 159": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Paymogo y Puebla de Guzmán?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 159": "¿Cuál de las siguientes carreteras une los municipios de Paymogo y Puebla de Guzmán?:",
     "opciones": {
       "A": "HU-5408",
       "B": "HU-5409",
@@ -2510,8 +2327,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La carretera HU-5401 une los municipios de Paymogo y Puebla de Guzmán[cite: 1]."
   },
-  "pregunta 160": {
-    "pregunta": "Al municipio Jabugo accederemos a través de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 160": "Al municipio Jabugo accederemos a través de:",
     "opciones": {
       "A": "HU-8112",
       "B": "HU-8119",
@@ -2521,8 +2339,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso principal al municipio de Jabugo se realiza mediante la HU-8112[cite: 1]."
   },
-  "pregunta 161": {
-    "pregunta": "Al norte de Escacena del Campo se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 161": "Al norte de Escacena del Campo se encuentra:",
     "opciones": {
       "A": "Hinojos",
       "B": "Manzanilla",
@@ -2532,8 +2351,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Berrocal se sitúa geográficamente al norte de Escacena del Campo[cite: 1]."
   },
-  "pregunta 162": {
-    "pregunta": "Acceso desde Puebla de Guzmán a Alosno:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 162": "Acceso desde Puebla de Guzmán a Alosno:",
     "opciones": {
       "A": "HU-4412",
       "B": "HU-4430",
@@ -2543,8 +2363,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La HU-4403 conecta los municipios de Puebla de Guzmán y Alosno[cite: 1]."
   },
-  "pregunta 163": {
-    "pregunta": "Para acceder al municipio de Zalamea la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 163": "Para acceder al municipio de Zalamea la Real:",
     "opciones": {
       "A": "A través de la A-478",
       "B": "A través de la A-471",
@@ -2554,8 +2375,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso principal a Zalamea la Real se realiza mediante la A-478[cite: 1]."
   },
-  "pregunta 164": {
-    "pregunta": "Acceso desde Almonte a Bollullos Par del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 164": "Acceso desde Almonte a Bollullos Par del Condado:",
     "opciones": {
       "A": "A-488",
       "B": "A-481",
@@ -2565,8 +2387,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La A-483 comunica los municipios de Almonte y Bollullos Par del Condado[cite: 1]."
   },
-  "pregunta 165": {
-    "pregunta": "Al norte de Lucena del Puerto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 165": "Al norte de Lucena del Puerto se encuentra:",
     "opciones": {
       "A": "Santa Catalina",
       "B": "Los Cabezudos",
@@ -2576,8 +2399,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Niebla se ubica geográficamente al norte de Lucena del Puerto[cite: 1]."
   },
-  "pregunta 166": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Santa Bárbara de Casas?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 166": "¿Cuál de los siguientes embalses se encuentra en Santa Bárbara de Casas?:",
     "opciones": {
       "A": "Pedrianes",
       "B": "Santa Bárbara",
@@ -2587,8 +2411,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El embalse de Santa Bárbara se encuentra en dicho término municipal[cite: 1]."
   },
-  "pregunta 167": {
-    "pregunta": "A la localidad de Tariquejos accederemos a través de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 167": "A la localidad de Tariquejos accederemos a través de:",
     "opciones": {
       "A": "HU-3401",
       "B": "HU-3422",
@@ -2598,8 +2423,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3401 es la vía de acceso principal a la localidad de Tariquejos[cite: 1]."
   },
-  "pregunta 168": {
-    "pregunta": "Al municipio de Zufre accederemos a través de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 168": "Al municipio de Zufre accederemos a través de:",
     "opciones": {
       "A": "A-466",
       "B": "A-433",
@@ -2609,8 +2435,9 @@
     "respuesta_correcta": "D",
     "explicacion": "El acceso al municipio de Zufre se realiza a través de la A-461[cite: 1]."
   },
-  "pregunta 169": {
-    "pregunta": "¿Cual de los siguientes municipios linda con la N-435?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 169": "¿Cual de los siguientes municipios linda con la N-435?:",
     "opciones": {
       "A": "Lepe",
       "B": "Puerto Blanco",
@@ -2620,8 +2447,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Puerto Blanco se encuentra vinculado al trazado de la N-435[cite: 1]."
   },
-  "pregunta 170": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Nerva y Granada de Riotinto?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 170": "¿Cuál de las siguientes carreteras une los municipios de Nerva y Granada de Riotinto?:",
     "opciones": {
       "A": "A-476",
       "B": "A-478",
@@ -2631,8 +2459,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La carretera A-476 une los municipios de Nerva y Granada de Riotinto[cite: 1]."
   },
-  "pregunta 171": {
-    "pregunta": "Para acceder al municipio de Fuenteheridos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 171": "Para acceder al municipio de Fuenteheridos:",
     "opciones": {
       "A": "A través de la A-8133",
       "B": "A través de la HU-8114",
@@ -2642,8 +2471,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso al municipio de Fuenteheridos se realiza a través de la carretera HU-8114[cite: 1]."
   },
-  "pregunta 172": {
-    "pregunta": "Acceso desde El Granado a Puerto de la Laja:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 172": "Acceso desde El Granado a Puerto de la Laja:",
     "opciones": {
       "A": "HU-6500",
       "B": "HU-6420",
@@ -2653,8 +2483,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La carretera HU-6400 comunica El Granado con Puerto de la Laja[cite: 1]."
   },
-  "pregunta 173": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de La Palma del Condado y Villalba del Alcor?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 173": "¿Cuál de las siguientes carreteras une los municipios de La Palma del Condado y Villalba del Alcor?:",
     "opciones": {
       "A": "A-497",
       "B": "A-472",
@@ -2664,8 +2495,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La carretera A-472 une La Palma del Condado con Villalba del Alcor[cite: 1]."
   },
-  "pregunta 174": {
-    "pregunta": "Forma parte del municipio Almonaster la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 174": "Forma parte del municipio Almonaster la Real:",
     "opciones": {
       "A": "San Platón",
       "B": "Domingo Negro",
@@ -2675,8 +2507,9 @@
     "respuesta_correcta": "A",
     "explicacion": "San Platón es un núcleo asociado al término de Almonaster la Real[cite: 1]."
   },
-  "pregunta 175": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Valverde del Camino?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 175": "¿Cuál de los siguientes embalses se encuentra en Valverde del Camino?:",
     "opciones": {
       "A": "Campana Río",
       "B": "Campofrío",
@@ -2685,12 +2518,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Campana Río se encuentra en el término municipal de Valverde del Camino[cite: 1]."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 176": {
-    "pregunta": "Para acceder al municipio de Almonaster la Real:",
+    "pregunta 176": "Para acceder al municipio de Almonaster la Real:",
     "opciones": {
       "A": "A-477",
       "B": "N-435",
@@ -2700,8 +2531,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso principal al municipio de Almonaster la Real se realiza a través de la N-435."
   },
-  "pregunta 177": {
-    "pregunta": "¿Qué carretera une los municipios de Aracena y Alájar?:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 177": "¿Qué carretera une los municipios de Aracena y Alájar?:",
     "opciones": {
       "A": "HU-8120",
       "B": "A-433",
@@ -2711,8 +2543,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 es la carretera que une los municipios de Aracena y Alájar."
   },
-  "pregunta 178": {
-    "pregunta": "Al norte de Cortegana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 178": "Al norte de Cortegana se encuentra:",
     "opciones": {
       "A": "Jabugo",
       "B": "Almonaster la Real",
@@ -2722,8 +2555,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Almonaster la Real se ubica geográficamente al norte de Cortegana."
   },
-  "pregunta 179": {
-    "pregunta": "Vía principal que atraviesa el municipio de Paterna del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 179": "Vía principal que atraviesa el municipio de Paterna del Campo:",
     "opciones": {
       "A": "A-481",
       "B": "A-472",
@@ -2733,8 +2567,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 es la vía principal que atraviesa el municipio de Paterna del Campo."
   },
-  "pregunta 180": {
-    "pregunta": "Acceso al municipio de Los Marines:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 180": "Acceso al municipio de Los Marines:",
     "opciones": {
       "A": "N-433",
       "B": "HU-8122",
@@ -2744,8 +2579,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía de acceso principal al municipio de Los Marines."
   },
-  "pregunta 181": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en San Bartolomé de la Torre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 181": "¿Cuál de los siguientes embalses se encuentra en San Bartolomé de la Torre?",
     "opciones": {
       "A": "Embalse del Corumbel",
       "B": "Embalse de la Melera",
@@ -2755,8 +2591,9 @@
     "respuesta_correcta": "D",
     "explicacion": "No existe un embalse de relevancia operativa en el término de San Bartolomé de la Torre."
   },
-  "pregunta 182": {
-    "pregunta": "Carretera que une los municipios de Bonares y Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 182": "Carretera que une los municipios de Bonares y Niebla:",
     "opciones": {
       "A": "A-484",
       "B": "HU-4100",
@@ -2766,8 +2603,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La HU-4100 conecta los municipios de Bonares y Niebla."
   },
-  "pregunta 183": {
-    "pregunta": "Para acceder al municipio de El Cerro de Andévalo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 183": "Para acceder al municipio de El Cerro de Andévalo:",
     "opciones": {
       "A": "A-495",
       "B": "HU-5100",
@@ -2777,8 +2615,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La A-493 es la vía principal de acceso al municipio de El Cerro de Andévalo."
   },
-  "pregunta 184": {
-    "pregunta": "Acceso desde Nerva a Zalamea la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 184": "Acceso desde Nerva a Zalamea la Real:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -2788,8 +2627,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-461 comunica los municipios de Nerva y Zalamea la Real."
   },
-  "pregunta 185": {
-    "pregunta": "Vía principal que atraviesa el municipio de Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 185": "Vía principal que atraviesa el municipio de Villalba del Alcor:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -2799,8 +2639,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villalba del Alcor."
   },
-  "pregunta 186": {
-    "pregunta": "¿Qué carretera une los municipios de Aracena y Castaño del Robledo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 186": "¿Qué carretera une los municipios de Aracena y Castaño del Robledo?",
     "opciones": {
       "A": "HU-8100",
       "B": "HU-8120",
@@ -2810,8 +2651,9 @@
     "respuesta_correcta": "C",
     "explicacion": "La HU-8122 une Aracena y Castaño del Robledo."
   },
-  "pregunta 187": {
-    "pregunta": "Al norte de Sanlúcar de Guadiana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 187": "Al norte de Sanlúcar de Guadiana se encuentra:",
     "opciones": {
       "A": "El Granado",
       "B": "San Silvestre de Guzmán",
@@ -2821,8 +2663,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Granado se ubica geográficamente al norte de Sanlúcar de Guadiana."
   },
-  "pregunta 188": {
-    "pregunta": "Acceso desde Alájar a Cortelazor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 188": "Acceso desde Alájar a Cortelazor:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -2832,8 +2675,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 comunica Alájar con Cortelazor."
   },
-  "pregunta 189": {
-    "pregunta": "Carretera que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 189": "Carretera que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-481",
@@ -2843,8 +2687,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 190": {
-    "pregunta": "Para acceder al municipio de Campofrío:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 190": "Para acceder al municipio de Campofrío:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -2854,8 +2699,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 permite el acceso principal al municipio de Campofrío."
   },
-  "pregunta 191": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 191": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
     "opciones": {
       "A": "Embalse del Corumbel",
       "B": "Embalse de la Melera",
@@ -2865,8 +2711,9 @@
     "respuesta_correcta": "D",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de Zalamea la Real."
   },
-  "pregunta 192": {
-    "pregunta": "Acceso desde Trigueros a Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 192": "Acceso desde Trigueros a Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -2876,8 +2723,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 conecta Trigueros con Beas."
   },
-  "pregunta 193": {
-    "pregunta": "Vía principal que atraviesa el municipio de Bollullos Par del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 193": "Vía principal que atraviesa el municipio de Bollullos Par del Condado:",
     "opciones": {
       "A": "A-483",
       "B": "A-472",
@@ -2887,8 +2735,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa Bollullos Par del Condado."
   },
-  "pregunta 194": {
-    "pregunta": "Al norte de Valverde del Camino se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 194": "Al norte de Valverde del Camino se encuentra:",
     "opciones": {
       "A": "Calañas",
       "B": "El Cerro de Andévalo",
@@ -2898,8 +2747,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Zalamea la Real se ubica geográficamente al norte de Valverde del Camino."
   },
-  "pregunta 195": {
-    "pregunta": "Acceso desde Almonte a Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 195": "Acceso desde Almonte a Hinojos:",
     "opciones": {
       "A": "A-483",
       "B": "A-481",
@@ -2909,8 +2759,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-481 comunica los municipios de Almonte y Hinojos."
   },
-  "pregunta 196": {
-    "pregunta": "Carretera que une los municipios de Gibraleón y San Juan del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 196": "Carretera que une los municipios de Gibraleón y San Juan del Puerto:",
     "opciones": {
       "A": "N-431",
       "B": "A-492",
@@ -2920,8 +2771,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es la vía que une Gibraleón y San Juan del Puerto."
   },
-  "pregunta 197": {
-    "pregunta": "¿Qué municipio linda con el término de Castaño del Robledo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 197": "¿Qué municipio linda con el término de Castaño del Robledo?",
     "opciones": {
       "A": "Aracena",
       "B": "Jabugo",
@@ -2931,8 +2783,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Jabugo linda geográficamente con Castaño del Robledo."
   },
-  "pregunta 198": {
-    "pregunta": "Para acceder al municipio de Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 198": "Para acceder al municipio de Villalba del Alcor:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -2942,8 +2795,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 permite el acceso principal al municipio de Villalba del Alcor."
   },
-  "pregunta 199": {
-    "pregunta": "Acceso desde Nerva a Campofrío:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 199": "Acceso desde Nerva a Campofrío:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -2953,8 +2807,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 conecta los municipios de Nerva y Campofrío."
   },
-  "pregunta 200": {
-    "pregunta": "Al este de Hinojos se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 200": "Al este de Hinojos se encuentra el municipio de:",
     "opciones": {
       "A": "Chucena",
       "B": "Paterna del Campo",
@@ -2963,12 +2818,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "Chucena se ubica geográficamente al este de Hinojos."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 201": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Villablanca?",
+    "pregunta 201": "¿Qué carretera atraviesa el municipio de Villablanca?",
     "opciones": {
       "A": "A-496",
       "B": "A-499",
@@ -2978,8 +2831,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal que atraviesa el municipio de Villablanca."
   },
-  "pregunta 202": {
-    "pregunta": "Acceso desde Hinojos a Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 202": "Acceso desde Hinojos a Almonte:",
     "opciones": {
       "A": "A-481",
       "B": "A-483",
@@ -2989,8 +2843,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-483 es la vía de comunicación principal entre Hinojos y Almonte."
   },
-  "pregunta 203": {
-    "pregunta": "Al este de Villarrasa se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 203": "Al este de Villarrasa se encuentra:",
     "opciones": {
       "A": "La Palma del Condado",
       "B": "Niebla",
@@ -3000,8 +2855,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La Palma del Condado se ubica geográficamente al este de Villarrasa."
   },
-  "pregunta 204": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta204": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -3011,8 +2867,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía de acceso principal al municipio de Rosal de la Frontera."
   },
-  "pregunta 205": {
-    "pregunta": "Carretera que une los municipios de Beas y San Juan del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 205": "Carretera que une los municipios de Beas y San Juan del Puerto:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -3022,8 +2879,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que conecta Beas con San Juan del Puerto."
   },
-  "pregunta 206": {
-    "pregunta": "¿Qué municipio se encuentra al norte de Alájar?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 206": "¿Qué municipio se encuentra al norte de Alájar?",
     "opciones": {
       "A": "Fuenteheridos",
       "B": "Los Marines",
@@ -3033,8 +2891,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Fuenteheridos se ubica geográficamente al norte de Alájar."
   },
-  "pregunta 207": {
-    "pregunta": "Acceso desde Aljaraque a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 207": "Acceso desde Aljaraque a Cartaya:",
     "opciones": {
       "A": "A-497",
       "B": "N-431",
@@ -3044,8 +2903,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La N-431 comunica los municipios de Aljaraque y Cartaya."
   },
-  "pregunta 208": {
-    "pregunta": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 208": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -3055,8 +2915,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía principal que atraviesa el municipio de Minas de Riotinto."
   },
-  "pregunta 209": {
-    "pregunta": "Para acceder al municipio de Calañas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 209": "Para acceder al municipio de Calañas:",
     "opciones": {
       "A": "A-496",
       "B": "A-493",
@@ -3066,8 +2927,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-493 es la vía de acceso principal al municipio de Calañas."
   },
-  "pregunta 210": {
-    "pregunta": "Al sur de Villablanca se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 210": "Al sur de Villablanca se encuentra:",
     "opciones": {
       "A": "Ayamonte",
       "B": "Lepe",
@@ -3077,8 +2939,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Ayamonte se ubica geográficamente al sur de Villablanca."
   },
-  "pregunta 211": {
-    "pregunta": "Carretera que une los municipios de Niebla y Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 211": "Carretera que une los municipios de Niebla y Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -3088,8 +2951,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 conecta los municipios de Niebla y Bonares."
   },
-  "pregunta 212": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 212": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -3099,8 +2963,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término de Cortelazor."
   },
-  "pregunta 213": {
-    "pregunta": "Acceso desde Paterna del Campo a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 213": "Acceso desde Paterna del Campo a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3110,8 +2975,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Villalba del Alcor."
   },
-  "pregunta 214": {
-    "pregunta": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 214": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
     "opciones": {
       "A": "A-486",
       "B": "A-494",
@@ -3121,8 +2987,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-486 es la vía principal que atraviesa Lucena del Puerto."
   },
-  "pregunta 215": {
-    "pregunta": "Al norte de Minas de Riotinto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 215": "Al norte de Minas de Riotinto se encuentra:",
     "opciones": {
       "A": "El Campillo",
       "B": "Nerva",
@@ -3132,8 +2999,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Campillo se ubica geográficamente al norte de Minas de Riotinto."
   },
-  "pregunta 216": {
-    "pregunta": "Para acceder al municipio de San Silvestre de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 216": "Para acceder al municipio de San Silvestre de Guzmán:",
     "opciones": {
       "A": "A-499",
       "B": "A-490",
@@ -3143,8 +3011,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-499 permite el acceso principal al municipio de San Silvestre de Guzmán."
   },
-  "pregunta 217": {
-    "pregunta": "Acceso desde Alájar a Los Marines:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 217": "Acceso desde Alájar a Los Marines:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -3154,8 +3023,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 comunica Alájar con Los Marines."
   },
-  "pregunta 218": {
-    "pregunta": "Carretera que atraviesa el municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 218": "Carretera que atraviesa el municipio de Almonte:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -3165,8 +3035,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa el municipio de Almonte."
   },
-  "pregunta 219": {
-    "pregunta": "¿Qué municipio linda con el término de Zufre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 219": "¿Qué municipio linda con el término de Zufre?",
     "opciones": {
       "A": "Aracena",
       "B": "Cortelazor",
@@ -3176,8 +3047,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Aracena linda geográficamente con el término de Zufre."
   },
-  "pregunta 220": {
-    "pregunta": "Acceso desde Chucena a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 220": "Acceso desde Chucena a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3187,8 +3059,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta los municipios de Chucena y Villalba del Alcor."
   },
-  "pregunta 221": {
-    "pregunta": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 221": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -3198,8 +3071,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía principal que atraviesa el municipio de Palos de la Frontera."
   },
-  "pregunta 222": {
-    "pregunta": "Al norte de Alosno se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 222": "Al norte de Alosno se encuentra:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Calañas",
@@ -3209,8 +3083,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Cerro de Andévalo se ubica geográficamente al norte de Alosno."
   },
-  "pregunta 223": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 223": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -3220,8 +3095,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 224": {
-    "pregunta": "Acceso desde Niebla a Lucena del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 224": "Acceso desde Niebla a Lucena del Puerto:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -3231,8 +3107,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 comunica Niebla con Lucena del Puerto."
   },
-  "pregunta 225": {
-    "pregunta": "Carretera que atraviesa el municipio de Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 225": "Carretera que atraviesa el municipio de Hinojos:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -3241,12 +3118,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía principal que atraviesa el municipio de Hinojos."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 226": {
-    "pregunta": "¿Qué carretera une los municipios de Gibraleón y Trigueros?",
+    "pregunta 226": "¿Qué carretera une los municipios de Gibraleón y Trigueros?",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -3256,8 +3131,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía de conexión principal entre Gibraleón y Trigueros."
   },
-  "pregunta 227": {
-    "pregunta": "Para acceder al municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 227": "Para acceder al municipio de Almonte:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -3267,8 +3143,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal de acceso al municipio de Almonte."
   },
-  "pregunta 228": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 228": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -3278,8 +3155,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera principal que atraviesa el municipio de Beas."
   },
-  "pregunta 229": {
-    "pregunta": "¿Qué municipio se encuentra al este de Escacena del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 229": "¿Qué municipio se encuentra al este de Escacena del Campo?",
     "opciones": {
       "A": "Chucena",
       "B": "Paterna del Campo",
@@ -3289,8 +3167,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Chucena se ubica geográficamente al este de Escacena del Campo."
   },
-  "pregunta 230": {
-    "pregunta": "Acceso desde Hinojos a Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 230": "Acceso desde Hinojos a Villarrasa:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -3300,8 +3179,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía que conecta Hinojos con Villarrasa."
   },
-  "pregunta 231": {
-    "pregunta": "Al norte de Lucena del Puerto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 231": "Al norte de Lucena del Puerto se encuentra:",
     "opciones": {
       "A": "Niebla",
       "B": "Moguer",
@@ -3311,8 +3191,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Niebla se ubica geográficamente al norte de Lucena del Puerto."
   },
-  "pregunta 232": {
-    "pregunta": "Vía principal que atraviesa el municipio de Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 232": "Vía principal que atraviesa el municipio de Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -3322,8 +3203,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa el municipio de Niebla."
   },
-  "pregunta 233": {
-    "pregunta": "Acceso desde Manzanilla a Paterna del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 233": "Acceso desde Manzanilla a Paterna del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3333,8 +3215,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 es la vía de comunicación entre Manzanilla y Paterna del Campo."
   },
-  "pregunta 234": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Alosno?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 234": "¿Cuál de los siguientes embalses se encuentra en Alosno?",
     "opciones": {
       "A": "Embalse de Lagunazo",
       "B": "Embalse del Corumbel",
@@ -3344,8 +3227,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Embalse de Lagunazo se localiza en el término de Alosno."
   },
-  "pregunta 235": {
-    "pregunta": "Acceso desde Moguer a Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 235": "Acceso desde Moguer a Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -3355,8 +3239,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía que une Moguer y Palos de la Frontera."
   },
-  "pregunta 236": {
-    "pregunta": "Carretera que atraviesa el municipio de Zalamea la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta236": "Carretera que atraviesa el municipio de Zalamea la Real:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -3366,8 +3251,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 es la carretera que atraviesa el municipio de Zalamea la Real."
   },
-  "pregunta 237": {
-    "pregunta": "¿Qué municipio se encuentra al oeste de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 237": "¿Qué municipio se encuentra al oeste de Almonaster la Real?",
     "opciones": {
       "A": "Cortegana",
       "B": "Jabugo",
@@ -3377,8 +3263,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Cortegana se ubica geográficamente al oeste de Almonaster la Real."
   },
-  "pregunta 238": {
-    "pregunta": "Para acceder al municipio de Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 238": "Para acceder al municipio de Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -3388,8 +3275,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 es la vía de acceso principal al municipio de Bonares."
   },
-  "pregunta 239": {
-    "pregunta": "Acceso desde Nerva a El Campillo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 239": "Acceso desde Nerva a El Campillo:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -3399,8 +3287,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 comunica los municipios de Nerva y El Campillo."
   },
-  "pregunta 240": {
-    "pregunta": "Vía principal que atraviesa el municipio de Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 240": "Vía principal que atraviesa el municipio de Valverde del Camino:",
     "opciones": {
       "A": "N-435",
       "B": "A-493",
@@ -3410,8 +3299,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía principal que atraviesa Valverde del Camino."
   },
-  "pregunta 241": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en La Granada de Riotinto?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 241": "¿Cuál de los siguientes embalses se encuentra en La Granada de Riotinto?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse del Corumbel",
@@ -3421,8 +3311,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de La Granada de Riotinto."
   },
-  "pregunta 242": {
-    "pregunta": "Acceso desde Bollullos Par del Condado a Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 242": "Acceso desde Bollullos Par del Condado a Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -3432,8 +3323,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 conecta Bollullos Par del Condado con Rociana del Condado."
   },
-  "pregunta 243": {
-    "pregunta": "Al norte de Cortegana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 243": "Al norte de Cortegana se encuentra:",
     "opciones": {
       "A": "Almonaster la Real",
       "B": "Jabugo",
@@ -3443,8 +3335,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Almonaster la Real se ubica geográficamente al norte de Cortegana."
   },
-  "pregunta 244": {
-    "pregunta": "Para acceder al municipio de Alájar:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 244": "Para acceder al municipio de Alájar:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -3454,8 +3347,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 permite el acceso principal al municipio de Alájar."
   },
-  "pregunta 245": {
-    "pregunta": "Acceso desde Gibraleón a San Bartolomé de la Torre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 245": "Acceso desde Gibraleón a San Bartolomé de la Torre:",
     "opciones": {
       "A": "A-495",
       "B": "N-435",
@@ -3465,8 +3359,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 246": {
-    "pregunta": "Carretera que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 246": "Carretera que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -3476,8 +3371,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal que atraviesa Aracena."
   },
-  "pregunta 247": {
-    "pregunta": "¿Qué municipio se encuentra al oeste de Calañas?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 247": "¿Qué municipio se encuentra al oeste de Calañas?",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Alosno",
@@ -3487,8 +3383,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Cerro de Andévalo se ubica geográficamente al oeste de Calañas."
   },
-  "pregunta 248": {
-    "pregunta": "Acceso desde Niebla a Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 248": "Acceso desde Niebla a Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -3498,8 +3395,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Niebla con Villarrasa."
   },
-  "pregunta 249": {
-    "pregunta": "Vía principal que atraviesa el municipio de Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 249": "Vía principal que atraviesa el municipio de Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -3509,8 +3407,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 es la vía principal que atraviesa Santa Olalla del Cala."
   },
-  "pregunta 250": {
-    "pregunta": "Al norte de Nerva se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 250": "Al norte de Nerva se encuentra:",
     "opciones": {
       "A": "Campofrío",
       "B": "Minas de Riotinto",
@@ -3519,12 +3418,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "Campofrío se ubica geográficamente al norte de Nerva."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 251": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Rociana del Condado?",
+    "pregunta 251": "¿Qué carretera atraviesa el municipio de Rociana del Condado?",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -3534,8 +3431,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 es la vía que atraviesa Rociana del Condado."
   },
-  "pregunta 252": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 252": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3545,8 +3443,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 253": {
-    "pregunta": "Vía principal que atraviesa el municipio de Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 253": "Vía principal que atraviesa el municipio de Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-483",
@@ -3556,8 +3455,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 es la vía principal que atraviesa Bonares."
   },
-  "pregunta 254": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 254": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -3567,8 +3467,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término de Zalamea la Real."
   },
-  "pregunta 255": {
-    "pregunta": "Acceso desde Aljaraque a Gibraleón:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 255": "Acceso desde Aljaraque a Gibraleón:",
     "opciones": {
       "A": "A-492",
       "B": "N-431",
@@ -3578,8 +3479,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-492 comunica Aljaraque con Gibraleón."
   },
-  "pregunta 256": {
-    "pregunta": "Al norte de Cortegana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 256": "Al norte de Cortegana se encuentra:",
     "opciones": {
       "A": "Almonaster la Real",
       "B": "Jabugo",
@@ -3589,8 +3491,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Almonaster la Real se ubica geográficamente al norte de Cortegana."
   },
-  "pregunta 257": {
-    "pregunta": "Para acceder al municipio de Zufre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 257": "Para acceder al municipio de Zufre:",
     "opciones": {
       "A": "A-461",
       "B": "A-434",
@@ -3600,8 +3503,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 permite el acceso principal al municipio de Zufre."
   },
-  "pregunta 258": {
-    "pregunta": "Acceso desde Villablanca a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 258": "Acceso desde Villablanca a Cartaya:",
     "opciones": {
       "A": "N-431",
       "B": "A-496",
@@ -3611,8 +3515,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 comunica Villablanca con Cartaya."
   },
-  "pregunta 259": {
-    "pregunta": "Carretera que une los municipios de Beas y Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 259": "Carretera que une los municipios de Beas y Niebla:",
     "opciones": {
       "A": "HU-3107",
       "B": "A-492",
@@ -3622,8 +3527,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3107 conecta Beas con Niebla."
   },
-  "pregunta 260": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Alájar?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 260": "¿Qué carretera atraviesa el municipio de Alájar?",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -3633,8 +3539,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 es la vía que atraviesa Alájar."
   },
-  "pregunta 261": {
-    "pregunta": "Para acceder al municipio de Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 261": "Para acceder al municipio de Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -3644,8 +3551,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 permite el acceso principal al municipio de Villarrasa."
   },
-  "pregunta 262": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 262": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "El Almendro",
       "B": "Alosno",
@@ -3655,8 +3563,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Almendro se ubica geográficamente al oeste de Puebla de Guzmán."
   },
-  "pregunta 263": {
-    "pregunta": "Carretera que une los municipios de Moguer y Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 263": "Carretera que une los municipios de Moguer y Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -3666,8 +3575,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 comunica Moguer con Palos de la Frontera."
   },
-  "pregunta 264": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Santa Ana la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 264": "¿Cuál de los siguientes embalses se encuentra en Santa Ana la Real?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -3677,8 +3587,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de Santa Ana la Real."
   },
-  "pregunta 265": {
-    "pregunta": "Acceso desde Aljaraque a Huelva:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 265": "Acceso desde Aljaraque a Huelva:",
     "opciones": {
       "A": "A-497",
       "B": "N-431",
@@ -3688,8 +3599,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-497 comunica Aljaraque con Huelva."
   },
-  "pregunta 266": {
-    "pregunta": "Vía principal que atraviesa el municipio de Cabezas Rubias:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 266": "Vía principal que atraviesa el municipio de Cabezas Rubias:",
     "opciones": {
       "A": "A-495",
       "B": "HU-5100",
@@ -3699,8 +3611,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es la vía principal que atraviesa Cabezas Rubias."
   },
-  "pregunta 267": {
-    "pregunta": "Al norte de Minas de Riotinto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 267": "Al norte de Minas de Riotinto se encuentra:",
     "opciones": {
       "A": "El Campillo",
       "B": "Nerva",
@@ -3710,8 +3623,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Campillo se ubica geográficamente al norte de Minas de Riotinto."
   },
-  "pregunta 268": {
-    "pregunta": "Carretera que une los municipios de Chucena y Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 268": "Carretera que une los municipios de Chucena y Escacena del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3721,8 +3635,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta los municipios de Chucena y Escacena del Campo."
   },
-  "pregunta 269": {
-    "pregunta": "Para acceder al municipio de Paymogo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 269": "Para acceder al municipio de Paymogo:",
     "opciones": {
       "A": "A-496",
       "B": "HU-7104",
@@ -3732,8 +3647,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 permite el acceso principal al municipio de Paymogo."
   },
-  "pregunta 270": {
-    "pregunta": "Acceso desde Alosno a Puebla de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 270": "Acceso desde Alosno a Puebla de Guzmán:",
     "opciones": {
       "A": "HU-4403",
       "B": "HU-4412",
@@ -3743,8 +3659,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4403 conecta los municipios de Alosno y Puebla de Guzmán."
   },
-  "pregunta 271": {
-    "pregunta": "¿Qué municipio se encuentra al este de Paterna del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 271": "¿Qué municipio se encuentra al este de Paterna del Campo?",
     "opciones": {
       "A": "Escacena del Campo",
       "B": "Manzanilla",
@@ -3754,8 +3671,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Escacena del Campo se ubica al este de Paterna del Campo."
   },
-  "pregunta 272": {
-    "pregunta": "Carretera que atraviesa el municipio de Bollullos Par del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 272": "Carretera que atraviesa el municipio de Bollullos Par del Condado:",
     "opciones": {
       "A": "A-483",
       "B": "A-472",
@@ -3765,8 +3683,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa el municipio de Bollullos Par del Condado."
   },
-  "pregunta 273": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 273": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -3776,8 +3695,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 274": {
-    "pregunta": "Acceso desde Villablanca a Ayamonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 274": "Acceso desde Villablanca a Ayamonte:",
     "opciones": {
       "A": "N-431",
       "B": "A-496",
@@ -3787,8 +3707,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 comunica Villablanca con Ayamonte."
   },
-  "pregunta 275": {
-    "pregunta": "Vía principal que atraviesa el municipio de Sanlúcar de Guadiana:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 275": "Vía principal que atraviesa el municipio de Sanlúcar de Guadiana:",
     "opciones": {
       "A": "HU-4400",
       "B": "A-499",
@@ -3797,12 +3718,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La HU-4400 es la vía principal que atraviesa el municipio de Sanlúcar de Guadiana."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 276": {
-    "pregunta": "¿Cuál es la vía principal que atraviesa el municipio de Paterna del Campo?",
+    "pregunta 276": "¿Cuál es la vía principal que atraviesa el municipio de Paterna del Campo?",
     "opciones": {
       "A": "A-481",
       "B": "A-472",
@@ -3812,8 +3731,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 es la vía principal que atraviesa el municipio de Paterna del Campo."
   },
-  "pregunta 277": {
-    "pregunta": "Acceso desde Almonte a Bollullos Par del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 277": "Acceso desde Almonte a Bollullos Par del Condado:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -3823,8 +3743,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 conecta los municipios de Almonte y Bollullos Par del Condado."
   },
-  "pregunta 278": {
-    "pregunta": "Vía principal que atraviesa el municipio de Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 278": "Vía principal que atraviesa el municipio de Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -3834,8 +3755,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 es la vía principal que atraviesa el municipio de Rociana del Condado."
   },
-  "pregunta 279": {
-    "pregunta": "¿Qué municipio se encuentra al este de Escacena del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 279": "¿Qué municipio se encuentra al este de Escacena del Campo?",
     "opciones": {
       "A": "Chucena",
       "B": "Paterna del Campo",
@@ -3845,8 +3767,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Chucena se ubica geográficamente al este de Escacena del Campo."
   },
-  "pregunta 280": {
-    "pregunta": "Acceso desde Paterna del Campo a Chucena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 280": "Acceso desde Paterna del Campo a Chucena:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3856,8 +3779,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta Paterna del Campo con Chucena."
   },
-  "pregunta 281": {
-    "pregunta": "Para acceder al municipio de Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 281": "Para acceder al municipio de Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -3867,8 +3791,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 permite el acceso principal al municipio de Manzanilla."
   },
-  "pregunta 282": {
-    "pregunta": "Acceso desde Hinojos a Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 282": "Acceso desde Hinojos a Villarrasa:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -3878,8 +3803,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-474 conecta Hinojos con Villarrasa."
   },
-  "pregunta 283": {
-    "pregunta": "Carretera que atraviesa el municipio de Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 283": "Carretera que atraviesa el municipio de Villalba del Alcor:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -3889,8 +3815,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villalba del Alcor."
   },
-  "pregunta 284": {
-    "pregunta": "¿Qué carretera une los municipios de La Palma del Condado y Villalba del Alcor?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 284": "¿Qué carretera une los municipios de La Palma del Condado y Villalba del Alcor?",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -3900,8 +3827,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 une La Palma del Condado y Villalba del Alcor."
   },
-  "pregunta 285": {
-    "pregunta": "Vía principal que atraviesa el municipio de Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 285": "Vía principal que atraviesa el municipio de Hinojos:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -3911,8 +3839,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía principal que atraviesa Hinojos."
   },
-  "pregunta 286": {
-    "pregunta": "Para acceder al municipio de Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 286": "Para acceder al municipio de Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -3922,8 +3851,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 permite el acceso principal al municipio de Niebla."
   },
-  "pregunta 287": {
-    "pregunta": "Acceso desde Villarrasa a Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 287": "Acceso desde Villarrasa a Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -3933,8 +3863,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Villarrasa con Niebla."
   },
-  "pregunta 288": {
-    "pregunta": "Vía principal que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 288": "Vía principal que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -3944,8 +3875,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 289": {
-    "pregunta": "¿Qué municipio se encuentra al oeste de Villarrasa?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 289": "¿Qué municipio se encuentra al oeste de Villarrasa?",
     "opciones": {
       "A": "Niebla",
       "B": "La Palma del Condado",
@@ -3955,8 +3887,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Niebla se ubica geográficamente al oeste de Villarrasa."
   },
-  "pregunta 290": {
-    "pregunta": "Para acceder al municipio de Paterna del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 290": "Para acceder al municipio de Paterna del Campo:",
     "opciones": {
       "A": "A-481",
       "B": "A-472",
@@ -3966,8 +3899,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 permite el acceso principal al municipio de Paterna del Campo."
   },
-  "pregunta 291": {
-    "pregunta": "Acceso desde Bollullos Par del Condado a La Palma del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 291": "Acceso desde Bollullos Par del Condado a La Palma del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -3977,8 +3911,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 conecta Bollullos Par del Condado con La Palma del Condado."
   },
-  "pregunta 292": {
-    "pregunta": "Vía principal que atraviesa el municipio de Chucena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 292": "Vía principal que atraviesa el municipio de Chucena:",
     "opciones": {
       "A": "A-481",
       "B": "A-472",
@@ -3988,8 +3923,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-481 es la vía principal que atraviesa el municipio de Chucena."
   },
-  "pregunta 293": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Bonares?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 293": "¿Cuál de los siguientes embalses se encuentra en Bonares?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse del Corumbel",
@@ -3999,8 +3935,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de Bonares."
   },
-  "pregunta 294": {
-    "pregunta": "Acceso desde Lucena del Puerto a Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 294": "Acceso desde Lucena del Puerto a Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -4010,8 +3947,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 comunica los municipios de Lucena del Puerto y Bonares."
   },
-  "pregunta 295": {
-    "pregunta": "Vía principal que atraviesa el municipio de Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 295": "Vía principal que atraviesa el municipio de Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4021,8 +3959,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 es la vía principal que atraviesa el municipio de Manzanilla."
   },
-  "pregunta 296": {
-    "pregunta": "Al este de Villalba del Alcor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 296": "Al este de Villalba del Alcor se encuentra:",
     "opciones": {
       "A": "La Palma del Condado",
       "B": "Paterna del Campo",
@@ -4032,8 +3971,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La Palma del Condado se ubica geográficamente al este de Villalba del Alcor."
   },
-  "pregunta 297": {
-    "pregunta": "Para acceder al municipio de Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 297": "Para acceder al municipio de Hinojos:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -4043,8 +3983,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-474 permite el acceso principal al municipio de Hinojos."
   },
-  "pregunta 298": {
-    "pregunta": "Acceso desde Escacena del Campo a Paterna del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 298": "Acceso desde Escacena del Campo a Paterna del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4054,8 +3995,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta Escacena del Campo con Paterna del Campo."
   },
-  "pregunta 299": {
-    "pregunta": "Vía principal que atraviesa el municipio de Moguer:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 299": "Vía principal que atraviesa el municipio de Moguer:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -4065,8 +4007,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía principal que atraviesa el municipio de Moguer."
   },
-  "pregunta 300": {
-    "pregunta": "Al norte de Palos de la Frontera se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 300": "Al norte de Palos de la Frontera se encuentra:",
     "opciones": {
       "A": "Moguer",
       "B": "Huelva",
@@ -4075,12 +4018,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "Moguer se ubica geográficamente al norte de Palos de la Frontera."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 301": {
-    "pregunta": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
+    "pregunta 301": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
     "opciones": {
       "A": "A-492",
       "B": "N-435",
@@ -4090,8 +4031,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La A-495 es el eje principal que conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 302": {
-    "pregunta": "El embalse del Chanza se encuentra en el término municipal de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 302": "El embalse del Chanza se encuentra en el término municipal de:",
     "opciones": {
       "A": "Puebla de Guzmán",
       "B": "El Almendro",
@@ -4101,8 +4043,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Chanza se localiza en el término municipal de Puebla de Guzmán."
   },
-  "pregunta 303": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 303": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
     "opciones": {
       "A": "A-495",
       "B": "A-496",
@@ -4112,8 +4055,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-496 es la vía principal de conexión entre Valverde del Camino y Cabezas Rubias."
   },
-  "pregunta 304": {
-    "pregunta": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 304": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
     "opciones": {
       "A": "El Patrás",
       "B": "Castaño del Robledo",
@@ -4123,8 +4067,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Patrás es una aldea perteneciente al municipio de Almonaster la Real."
   },
-  "pregunta 305": {
-    "pregunta": "Vía que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 305": "Vía que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -4134,8 +4079,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la carretera principal que atraviesa Aracena."
   },
-  "pregunta 306": {
-    "pregunta": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 306": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -4145,8 +4091,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 comunica Aroche con Rosal de la Frontera."
   },
-  "pregunta 307": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 307": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8105",
       "B": "HU-8110",
@@ -4156,8 +4103,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso al municipio de Castaño del Robledo se realiza a través de la carretera HU-8110."
   },
-  "pregunta 308": {
-    "pregunta": "Al este de Aracena se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 308": "Al este de Aracena se encuentra el municipio de:",
     "opciones": {
       "A": "Puerto Moral",
       "B": "Cortegana",
@@ -4167,8 +4115,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Puerto Moral se sitúa al este del término municipal de Aracena."
   },
-  "pregunta 309": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 309": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -4178,8 +4127,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que atraviesa el municipio de Beas."
   },
-  "pregunta 310": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 310": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -4189,8 +4139,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de la Melera se sitúa en el término municipal de Cortegana."
   },
-  "pregunta 311": {
-    "pregunta": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 311": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -4200,8 +4151,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 une Cala y Santa Olalla del Cala."
   },
-  "pregunta 312": {
-    "pregunta": "Al norte de Cortelazor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 312": "Al norte de Cortelazor se encuentra:",
     "opciones": {
       "A": "Aracena",
       "B": "Los Marines",
@@ -4211,8 +4163,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Los Marines se ubica al norte de Cortelazor."
   },
-  "pregunta 313": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 313": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4222,8 +4175,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 314": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 314": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -4233,8 +4187,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía principal de acceso a El Almendro."
   },
-  "pregunta 315": {
-    "pregunta": "Carretera que une Bonares con Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 315": "Carretera que une Bonares con Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -4244,8 +4199,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La HU-4100 comunica Bonares con Rociana del Condado."
   },
-  "pregunta 316": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 316": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
     "opciones": {
       "A": "Embalse de Paymogo",
       "B": "Embalse del Chanza",
@@ -4255,8 +4211,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Paymogo se localiza en dicho municipio."
   },
-  "pregunta 317": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 317": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "Alosno",
       "B": "Paymogo",
@@ -4266,8 +4223,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Paymogo se sitúa al oeste de Puebla de Guzmán."
   },
-  "pregunta 318": {
-    "pregunta": "Vía que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 318": "Vía que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -4277,8 +4235,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 319": {
-    "pregunta": "Para acceder al municipio de Jabugo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 319": "Para acceder al municipio de Jabugo:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -4288,8 +4247,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Jabugo se realiza principalmente por la N-433."
   },
-  "pregunta 320": {
-    "pregunta": "Acceso desde Cartaya a El Rompido:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 320": "Acceso desde Cartaya a El Rompido:",
     "opciones": {
       "A": "HU-3402",
       "B": "HU-3401",
@@ -4299,8 +4259,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3402 comunica Cartaya con El Rompido."
   },
-  "pregunta 321": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 321": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
     "opciones": {
       "A": "N-431",
       "B": "N-435",
@@ -4310,8 +4271,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es el eje principal de comunicación entre Huelva y Gibraleón."
   },
-  "pregunta 322": {
-    "pregunta": "Al sur de Calañas se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 322": "Al sur de Calañas se encuentra el municipio de:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Valverde del Camino",
@@ -4321,8 +4283,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Zalamea la Real se sitúa al sur de Calañas."
   },
-  "pregunta 323": {
-    "pregunta": "Carretera que atraviesa Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 323": "Carretera que atraviesa Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -4332,8 +4295,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villarrasa."
   },
-  "pregunta 324": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 324": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -4343,8 +4307,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal de acceso a Rosal de la Frontera."
   },
-  "pregunta 325": {
-    "pregunta": "Acceso desde Lepe a La Antilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 325": "Acceso desde Lepe a La Antilla:",
     "opciones": {
       "A": "HU-3301",
       "B": "HU-3300",
@@ -4353,12 +4318,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La HU-3301 es la vía de comunicación entre Lepe y La Antilla."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 326": {
-    "pregunta": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
+    "pregunta 326": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
     "opciones": {
       "A": "A-492",
       "B": "N-435",
@@ -4368,8 +4331,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La A-495 es el eje principal que conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 327": {
-    "pregunta": "El embalse del Chanza se encuentra en el término municipal de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 327": "El embalse del Chanza se encuentra en el término municipal de:",
     "opciones": {
       "A": "Puebla de Guzmán",
       "B": "El Almendro",
@@ -4379,8 +4343,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Chanza se localiza en el término municipal de Puebla de Guzmán."
   },
-  "pregunta 328": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 328": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
     "opciones": {
       "A": "A-495",
       "B": "A-496",
@@ -4390,8 +4355,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-496 es la vía principal de conexión entre Valverde del Camino y Cabezas Rubias."
   },
-  "pregunta 329": {
-    "pregunta": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 329": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
     "opciones": {
       "A": "El Patrás",
       "B": "Castaño del Robledo",
@@ -4401,8 +4367,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Patrás es una aldea perteneciente al municipio de Almonaster la Real."
   },
-  "pregunta 330": {
-    "pregunta": "Vía que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 330": "Vía que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -4412,8 +4379,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la carretera principal que atraviesa Aracena."
   },
-  "pregunta 331": {
-    "pregunta": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 331": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -4423,8 +4391,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 comunica Aroche con Rosal de la Frontera."
   },
-  "pregunta 332": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 332": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8105",
       "B": "HU-8110",
@@ -4434,8 +4403,9 @@
     "respuesta_correcta": "B",
     "explicacion": "El acceso al municipio de Castaño del Robledo se realiza a través de la carretera HU-8110."
   },
-  "pregunta 333": {
-    "pregunta": "Al este de Aracena se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 333": "Al este de Aracena se encuentra el municipio de:",
     "opciones": {
       "A": "Puerto Moral",
       "B": "Cortegana",
@@ -4445,8 +4415,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Puerto Moral se sitúa al este del término municipal de Aracena."
   },
-  "pregunta 334": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 334": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -4456,8 +4427,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que atraviesa el municipio de Beas."
   },
-  "pregunta 335": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 335": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -4467,8 +4439,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de la Melera se sitúa en el término municipal de Cortegana."
   },
-  "pregunta 336": {
-    "pregunta": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 336": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -4478,8 +4451,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 une Cala y Santa Olalla del Cala."
   },
-  "pregunta 337": {
-    "pregunta": "Al norte de Cortelazor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 337": "Al norte de Cortelazor se encuentra:",
     "opciones": {
       "A": "Aracena",
       "B": "Los Marines",
@@ -4489,8 +4463,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Los Marines se ubica al norte de Cortelazor."
   },
-  "pregunta 338": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 338": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4500,8 +4475,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 339": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 339": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -4511,8 +4487,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía principal de acceso a El Almendro."
   },
-  "pregunta 340": {
-    "pregunta": "Carretera que une Bonares con Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 340": "Carretera que une Bonares con Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -4522,8 +4499,9 @@
     "respuesta_correcta": "D",
     "explicacion": "La HU-4100 comunica Bonares con Rociana del Condado."
   },
-  "pregunta 341": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 341": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
     "opciones": {
       "A": "Embalse de Paymogo",
       "B": "Embalse del Chanza",
@@ -4533,8 +4511,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Paymogo se localiza en dicho municipio."
   },
-  "pregunta 342": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 342": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "Alosno",
       "B": "Paymogo",
@@ -4544,8 +4523,9 @@
     "respuesta_correcta": "B",
     "explicacion": "Paymogo se sitúa al oeste de Puebla de Guzmán."
   },
-  "pregunta 343": {
-    "pregunta": "Vía que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 343": "Vía que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -4555,8 +4535,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 344": {
-    "pregunta": "Para acceder al municipio de Jabugo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 344": "Para acceder al municipio de Jabugo:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -4566,8 +4547,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Jabugo se realiza principalmente por la N-433."
   },
-  "pregunta 345": {
-    "pregunta": "Acceso desde Cartaya a El Rompido:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 345": "Acceso desde Cartaya a El Rompido:",
     "opciones": {
       "A": "HU-3402",
       "B": "HU-3401",
@@ -4577,8 +4559,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3402 comunica Cartaya con El Rompido."
   },
-  "pregunta 346": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 346": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
     "opciones": {
       "A": "N-431",
       "B": "N-435",
@@ -4588,8 +4571,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es el eje principal de comunicación entre Huelva y Gibraleón."
   },
-  "pregunta 347": {
-    "pregunta": "Al sur de Calañas se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 347": "Al sur de Calañas se encuentra el municipio de:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Valverde del Camino",
@@ -4599,8 +4583,9 @@
     "respuesta_correcta": "C",
     "explicacion": "Zalamea la Real se sitúa al sur de Calañas."
   },
-  "pregunta 348": {
-    "pregunta": "Carretera que atraviesa Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 348": "Carretera que atraviesa Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -4610,8 +4595,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villarrasa."
   },
-  "pregunta 349": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 349": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -4621,8 +4607,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal de acceso a Rosal de la Frontera."
   },
-  "pregunta 350": {
-    "pregunta": "Acceso desde Lepe a La Antilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 350": "Acceso desde Lepe a La Antilla:",
     "opciones": {
       "A": "HU-3301",
       "B": "HU-3300",
@@ -4631,12 +4618,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La HU-3301 es la vía de comunicación entre Lepe y La Antilla."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 351": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Villablanca?",
+    "pregunta 351": "¿Qué carretera atraviesa el municipio de Villablanca?",
     "opciones": {
       "A": "A-496",
       "B": "A-499",
@@ -4646,8 +4631,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal que atraviesa el municipio de Villablanca."
   },
-  "pregunta 352": {
-    "pregunta": "Acceso desde Hinojos a Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 352": "Acceso desde Hinojos a Almonte:",
     "opciones": {
       "A": "A-481",
       "B": "A-483",
@@ -4657,8 +4643,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-483 es la vía de comunicación principal entre Hinojos y Almonte."
   },
-  "pregunta 353": {
-    "pregunta": "Al este de Villarrasa se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 353": "Al este de Villarrasa se encuentra:",
     "opciones": {
       "A": "La Palma del Condado",
       "B": "Niebla",
@@ -4668,8 +4655,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La Palma del Condado se ubica geográficamente al este de Villarrasa."
   },
-  "pregunta 354": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 354": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -4679,8 +4667,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía de acceso principal al municipio de Rosal de la Frontera."
   },
-  "pregunta 355": {
-    "pregunta": "Carretera que une los municipios de Beas y San Juan del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 355": "Carretera que une los municipios de Beas y San Juan del Puerto:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -4690,8 +4679,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que conecta Beas con San Juan del Puerto."
   },
-  "pregunta 356": {
-    "pregunta": "¿Qué municipio se encuentra al norte de Alájar?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 356": "¿Qué municipio se encuentra al norte de Alájar?",
     "opciones": {
       "A": "Fuenteheridos",
       "B": "Los Marines",
@@ -4701,8 +4691,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Fuenteheridos se ubica geográficamente al norte de Alájar."
   },
-  "pregunta 357": {
-    "pregunta": "Acceso desde Aljaraque a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 357": "Acceso desde Aljaraque a Cartaya:",
     "opciones": {
       "A": "A-497",
       "B": "N-431",
@@ -4712,8 +4703,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La N-431 comunica los municipios de Aljaraque y Cartaya."
   },
-  "pregunta 358": {
-    "pregunta": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 358": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -4723,8 +4715,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía principal que atraviesa el municipio de Minas de Riotinto."
   },
-  "pregunta 359": {
-    "pregunta": "Para acceder al municipio de Calañas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 359": "Para acceder al municipio de Calañas:",
     "opciones": {
       "A": "A-496",
       "B": "A-493",
@@ -4734,8 +4727,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-493 es la vía de acceso principal al municipio de Calañas."
   },
-  "pregunta 360": {
-    "pregunta": "Al sur de Villablanca se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 360": "Al sur de Villablanca se encuentra:",
     "opciones": {
       "A": "Ayamonte",
       "B": "Lepe",
@@ -4745,8 +4739,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Ayamonte se ubica geográficamente al sur de Villablanca."
   },
-  "pregunta 361": {
-    "pregunta": "Carretera que une los municipios de Niebla y Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 361": "Carretera que une los municipios de Niebla y Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -4756,8 +4751,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 conecta los municipios de Niebla y Bonares."
   },
-  "pregunta 362": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 362": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -4767,8 +4763,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término de Cortelazor."
   },
-  "pregunta 363": {
-    "pregunta": "Acceso desde Paterna del Campo a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 363": "Acceso desde Paterna del Campo a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4778,8 +4775,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Villalba del Alcor."
   },
-  "pregunta 364": {
-    "pregunta": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 364": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
     "opciones": {
       "A": "A-486",
       "B": "A-494",
@@ -4789,8 +4787,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-486 es la vía principal que atraviesa Lucena del Puerto."
   },
-  "pregunta 365": {
-    "pregunta": "Al norte de Minas de Riotinto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 365": "Al norte de Minas de Riotinto se encuentra:",
     "opciones": {
       "A": "El Campillo",
       "B": "Nerva",
@@ -4800,8 +4799,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Campillo se ubica geográficamente al norte de Minas de Riotinto."
   },
-  "pregunta 366": {
-    "pregunta": "Para acceder al municipio de San Silvestre de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 366": "Para acceder al municipio de San Silvestre de Guzmán:",
     "opciones": {
       "A": "A-499",
       "B": "A-490",
@@ -4811,8 +4811,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-499 permite el acceso principal al municipio de San Silvestre de Guzmán."
   },
-  "pregunta 367": {
-    "pregunta": "Acceso desde Alájar a Los Marines:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 367": "Acceso desde Alájar a Los Marines:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -4822,8 +4823,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 comunica Alájar con Los Marines."
   },
-  "pregunta 368": {
-    "pregunta": "Carretera que atraviesa el municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 368": "Carretera que atraviesa el municipio de Almonte:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -4833,8 +4835,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa el municipio de Almonte."
   },
-  "pregunta 369": {
-    "pregunta": "¿Qué municipio linda con el término de Zufre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 369": "¿Qué municipio linda con el término de Zufre?",
     "opciones": {
       "A": "Aracena",
       "B": "Cortelazor",
@@ -4844,8 +4847,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Aracena linda geográficamente con el término de Zufre."
   },
-  "pregunta 370": {
-    "pregunta": "Acceso desde Chucena a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 370": "Acceso desde Chucena a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -4855,8 +4859,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta los municipios de Chucena y Villalba del Alcor."
   },
-  "pregunta 371": {
-    "pregunta": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 371": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -4866,8 +4871,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía principal que atraviesa el municipio de Palos de la Frontera."
   },
-  "pregunta 372": {
-    "pregunta": "Al norte de Alosno se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 372": "Al norte de Alosno se encuentra:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Calañas",
@@ -4877,8 +4883,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Cerro de Andévalo se ubica geográficamente al norte de Alosno."
   },
-  "pregunta 373": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 373": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -4888,8 +4895,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 374": {
-    "pregunta": "Acceso desde Villarrasa a Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 374": "Acceso desde Villarrasa a Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -4899,8 +4907,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Villarrasa con Niebla."
   },
-  "pregunta 375": {
-    "pregunta": "Carretera que atraviesa el municipio de Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 375": "Carretera que atraviesa el municipio de Hinojos:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -4909,12 +4918,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía principal que atraviesa el municipio de Hinojos."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 376": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Villablanca?",
+    "pregunta 376": "¿Qué carretera atraviesa el municipio de Villablanca?",
     "opciones": {
       "A": "A-496",
       "B": "A-499",
@@ -4924,8 +4931,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal que atraviesa el municipio de Villablanca."
   },
-  "pregunta 377": {
-    "pregunta": "Acceso desde Hinojos a Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 377": "Acceso desde Hinojos a Almonte:",
     "opciones": {
       "A": "A-481",
       "B": "A-483",
@@ -4935,8 +4943,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-483 es la vía de comunicación principal entre Hinojos y Almonte."
   },
-  "pregunta 378": {
-    "pregunta": "Al este de Villarrasa se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 378": "Al este de Villarrasa se encuentra:",
     "opciones": {
       "A": "La Palma del Condado",
       "B": "Niebla",
@@ -4946,8 +4955,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La Palma del Condado se ubica geográficamente al este de Villarrasa."
   },
-  "pregunta 379": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 379": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -4957,8 +4967,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía de acceso principal al municipio de Rosal de la Frontera."
   },
-  "pregunta 380": {
-    "pregunta": "Carretera que une los municipios de Beas y San Juan del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 380": "Carretera que une los municipios de Beas y San Juan del Puerto:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -4968,8 +4979,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que conecta Beas con San Juan del Puerto."
   },
-  "pregunta 381": {
-    "pregunta": "¿Qué municipio se encuentra al norte de Alájar?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 381": "¿Qué municipio se encuentra al norte de Alájar?",
     "opciones": {
       "A": "Fuenteheridos",
       "B": "Los Marines",
@@ -4979,8 +4991,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Fuenteheridos se ubica geográficamente al norte de Alájar."
   },
-  "pregunta 382": {
-    "pregunta": "Acceso desde Aljaraque a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 382": "Acceso desde Aljaraque a Cartaya:",
     "opciones": {
       "A": "A-497",
       "B": "N-431",
@@ -4990,8 +5003,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La N-431 comunica los municipios de Aljaraque y Cartaya."
   },
-  "pregunta 383": {
-    "pregunta": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 383": "Vía principal que atraviesa el municipio de Minas de Riotinto:",
     "opciones": {
       "A": "A-476",
       "B": "A-461",
@@ -5001,8 +5015,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-476 es la vía principal que atraviesa el municipio de Minas de Riotinto."
   },
-  "pregunta 384": {
-    "pregunta": "Para acceder al municipio de Calañas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 384": "Para acceder al municipio de Calañas:",
     "opciones": {
       "A": "A-496",
       "B": "A-493",
@@ -5012,8 +5027,9 @@
     "respuesta_correcta": "B",
     "explicacion": "La A-493 es la vía de acceso principal al municipio de Calañas."
   },
-  "pregunta 385": {
-    "pregunta": "Al sur de Villablanca se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 385": "Al sur de Villablanca se encuentra:",
     "opciones": {
       "A": "Ayamonte",
       "B": "Lepe",
@@ -5023,8 +5039,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Ayamonte se ubica geográficamente al sur de Villablanca."
   },
-  "pregunta 386": {
-    "pregunta": "Carretera que une los municipios de Niebla y Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 386": "Carretera que une los municipios de Niebla y Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -5034,8 +5051,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 conecta los municipios de Niebla y Bonares."
   },
-  "pregunta 387": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 387": "¿Cuál de los siguientes embalses se encuentra en Cortelazor?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -5045,8 +5063,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término de Cortelazor."
   },
-  "pregunta 388": {
-    "pregunta": "Acceso desde Paterna del Campo a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 388": "Acceso desde Paterna del Campo a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5056,8 +5075,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Villalba del Alcor."
   },
-  "pregunta 389": {
-    "pregunta": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 389": "Vía principal que atraviesa el municipio de Lucena del Puerto:",
     "opciones": {
       "A": "A-486",
       "B": "A-494",
@@ -5067,8 +5087,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-486 es la vía principal que atraviesa Lucena del Puerto."
   },
-  "pregunta 390": {
-    "pregunta": "Al norte de Minas de Riotinto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 390": "Al norte de Minas de Riotinto se encuentra:",
     "opciones": {
       "A": "El Campillo",
       "B": "Nerva",
@@ -5078,8 +5099,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Campillo se ubica geográficamente al norte de Minas de Riotinto."
   },
-  "pregunta 391": {
-    "pregunta": "Para acceder al municipio de San Silvestre de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 391": "Para acceder al municipio de San Silvestre de Guzmán:",
     "opciones": {
       "A": "A-499",
       "B": "A-490",
@@ -5089,8 +5111,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-499 permite el acceso principal al municipio de San Silvestre de Guzmán."
   },
-  "pregunta 392": {
-    "pregunta": "Acceso desde Alájar a Los Marines:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 392": "Acceso desde Alájar a Los Marines:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -5100,8 +5123,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 comunica Alájar con Los Marines."
   },
-  "pregunta 393": {
-    "pregunta": "Carretera que atraviesa el municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 393": "Carretera que atraviesa el municipio de Almonte:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -5111,8 +5135,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa el municipio de Almonte."
   },
-  "pregunta 394": {
-    "pregunta": "¿Qué municipio linda con el término de Zufre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 394": "¿Qué municipio linda con el término de Zufre?",
     "opciones": {
       "A": "Aracena",
       "B": "Cortelazor",
@@ -5122,8 +5147,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Aracena linda geográficamente con el término de Zufre."
   },
-  "pregunta 395": {
-    "pregunta": "Acceso desde Chucena a Villalba del Alcor:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 395": "Acceso desde Chucena a Villalba del Alcor:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5133,8 +5159,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta los municipios de Chucena y Villalba del Alcor."
   },
-  "pregunta 396": {
-    "pregunta": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 396": "Vía principal que atraviesa el municipio de Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -5144,8 +5171,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía principal que atraviesa el municipio de Palos de la Frontera."
   },
-  "pregunta 397": {
-    "pregunta": "Al norte de Alosno se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 397": "Al norte de Alosno se encuentra:",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Calañas",
@@ -5155,8 +5183,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Cerro de Andévalo se ubica geográficamente al norte de Alosno."
   },
-  "pregunta 398": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 398": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -5166,8 +5195,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 399": {
-    "pregunta": "Acceso desde Villarrasa a Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 399": "Acceso desde Villarrasa a Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -5177,8 +5207,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Villarrasa con Niebla."
   },
-  "pregunta 400": {
-    "pregunta": "Carretera que atraviesa el municipio de Hinojos:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 400": "Carretera que atraviesa el municipio de Hinojos:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -5187,12 +5218,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía principal que atraviesa el municipio de Hinojos."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 401": {
-    "pregunta": "¿Qué carretera une los municipios de Gibraleón y Trigueros?",
+    "pregunta 401": "¿Qué carretera une los municipios de Gibraleón y Trigueros?",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -5202,8 +5231,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía de conexión principal entre Gibraleón y Trigueros."
   },
-  "pregunta 402": {
-    "pregunta": "Para acceder al municipio de Almonte:",
+  {
+  "tema_id": "Test 501 preguntas", 
+    "pregunta 402": "Para acceder al municipio de Almonte:",
     "opciones": {
       "A": "A-483",
       "B": "A-484",
@@ -5213,8 +5243,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal de acceso al municipio de Almonte."
   },
-  "pregunta 403": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 403": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -5224,8 +5255,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera principal que atraviesa el municipio de Beas."
   },
-  "pregunta 404": {
-    "pregunta": "¿Qué municipio se encuentra al este de Escacena del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 404": "¿Qué municipio se encuentra al este de Escacena del Campo?",
     "opciones": {
       "A": "Chucena",
       "B": "Paterna del Campo",
@@ -5235,8 +5267,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Chucena se ubica geográficamente al este de Escacena del Campo."
   },
-  "pregunta 405": {
-    "pregunta": "Acceso desde Hinojos a Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 405": "Acceso desde Hinojos a Villarrasa:",
     "opciones": {
       "A": "A-474",
       "B": "A-481",
@@ -5246,8 +5279,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-474 es la vía que conecta Hinojos con Villarrasa."
   },
-  "pregunta 406": {
-    "pregunta": "Al norte de Lucena del Puerto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 406": "Al norte de Lucena del Puerto se encuentra:",
     "opciones": {
       "A": "Niebla",
       "B": "Moguer",
@@ -5257,8 +5291,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Niebla se ubica geográficamente al norte de Lucena del Puerto."
   },
-  "pregunta 407": {
-    "pregunta": "Vía principal que atraviesa el municipio de Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 407": "Vía principal que atraviesa el municipio de Niebla:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -5268,8 +5303,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa el municipio de Niebla."
   },
-  "pregunta 408": {
-    "pregunta": "Acceso desde Manzanilla a Paterna del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 408": "Acceso desde Manzanilla a Paterna del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5279,8 +5315,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 es la vía de comunicación entre Manzanilla y Paterna del Campo."
   },
-  "pregunta 409": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Alosno?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 409": "¿Cuál de los siguientes embalses se encuentra en Alosno?",
     "opciones": {
       "A": "Embalse de Lagunazo",
       "B": "Embalse del Corumbel",
@@ -5290,8 +5327,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Embalse de Lagunazo se localiza en el término de Alosno."
   },
-  "pregunta 410": {
-    "pregunta": "Acceso desde Moguer a Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 410": "Acceso desde Moguer a Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -5301,8 +5339,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 es la vía que une Moguer y Palos de la Frontera."
   },
-  "pregunta 411": {
-    "pregunta": "Carretera que atraviesa el municipio de Zalamea la Real:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 411": "Carretera que atraviesa el municipio de Zalamea la Real:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -5312,8 +5351,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 es la carretera que atraviesa el municipio de Zalamea la Real."
   },
-  "pregunta 412": {
-    "pregunta": "¿Qué municipio se encuentra al oeste de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 412": "¿Qué municipio se encuentra al oeste de Almonaster la Real?",
     "opciones": {
       "A": "Cortegana",
       "B": "Jabugo",
@@ -5323,8 +5363,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Cortegana se ubica geográficamente al oeste de Almonaster la Real."
   },
-  "pregunta 413": {
-    "pregunta": "Para acceder al municipio de Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 413": "Para acceder al municipio de Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -5334,8 +5375,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 es la vía de acceso principal al municipio de Bonares."
   },
-  "pregunta 414": {
-    "pregunta": "Acceso desde Nerva a El Campillo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 414": "Acceso desde Nerva a El Campillo:",
     "opciones": {
       "A": "A-461",
       "B": "A-476",
@@ -5345,8 +5387,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 comunica los municipios de Nerva y El Campillo."
   },
-  "pregunta 415": {
-    "pregunta": "Vía principal que atraviesa el municipio de Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 415": "Vía principal que atraviesa el municipio de Valverde del Camino:",
     "opciones": {
       "A": "N-435",
       "B": "A-493",
@@ -5356,8 +5399,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la vía principal que atraviesa Valverde del Camino."
   },
-  "pregunta 416": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en La Granada de Riotinto?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 416": "¿Cuál de los siguientes embalses se encuentra en La Granada de Riotinto?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse del Corumbel",
@@ -5367,8 +5411,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de La Granada de Riotinto."
   },
-  "pregunta 417": {
-    "pregunta": "Acceso desde Bollullos Par del Condado a Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 417": "Acceso desde Bollullos Par del Condado a Rociana del Condado:",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -5378,8 +5423,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 conecta Bollullos Par del Condado con Rociana del Condado."
   },
-  "pregunta 418": {
-    "pregunta": "Al norte de Cortegana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 418": "Al norte de Cortegana se encuentra:",
     "opciones": {
       "A": "Almonaster la Real",
       "B": "Jabugo",
@@ -5389,8 +5435,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Almonaster la Real se ubica geográficamente al norte de Cortegana."
   },
-  "pregunta 419": {
-    "pregunta": "Para acceder al municipio de Alájar:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 419": "Para acceder al municipio de Alájar:",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -5400,8 +5447,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 permite el acceso principal al municipio de Alájar."
   },
-  "pregunta 420": {
-    "pregunta": "Acceso desde Gibraleón a San Bartolomé de la Torre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 420": "Acceso desde Gibraleón a San Bartolomé de la Torre:",
     "opciones": {
       "A": "A-495",
       "B": "N-435",
@@ -5411,8 +5459,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 421": {
-    "pregunta": "Carretera que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 421": "Carretera que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -5422,8 +5471,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal que atraviesa Aracena."
   },
-  "pregunta 422": {
-    "pregunta": "¿Qué municipio se encuentra al oeste de Calañas?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 422": "¿Qué municipio se encuentra al oeste de Calañas?",
     "opciones": {
       "A": "El Cerro de Andévalo",
       "B": "Alosno",
@@ -5433,8 +5483,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Cerro de Andévalo se ubica geográficamente al oeste de Calañas."
   },
-  "pregunta 423": {
-    "pregunta": "Acceso desde Niebla a Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 423": "Acceso desde Niebla a Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -5444,8 +5495,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 conecta Niebla con Villarrasa."
   },
-  "pregunta 424": {
-    "pregunta": "Vía principal que atraviesa el municipio de Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 424": "Vía principal que atraviesa el municipio de Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -5455,8 +5507,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 es la vía principal que atraviesa Santa Olalla del Cala."
   },
-  "pregunta 425": {
-    "pregunta": "Al norte de Nerva se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 425": "Al norte de Nerva se encuentra:",
     "opciones": {
       "A": "Campofrío",
       "B": "Minas de Riotinto",
@@ -5465,12 +5518,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "Campofrío se ubica geográficamente al norte de Nerva."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 426": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Rociana del Condado?",
+    "pregunta 426": "¿Qué carretera atraviesa el municipio de Rociana del Condado?",
     "opciones": {
       "A": "A-484",
       "B": "A-483",
@@ -5480,8 +5531,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-484 es la vía que atraviesa Rociana del Condado."
   },
-  "pregunta 427": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 427": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5491,8 +5543,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 428": {
-    "pregunta": "Vía principal que atraviesa el municipio de Bonares:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 428": "Vía principal que atraviesa el municipio de Bonares:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-483",
@@ -5502,8 +5555,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 es la vía principal que atraviesa Bonares."
   },
-  "pregunta 429": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 429": "¿Cuál de los siguientes embalses se encuentra en Zalamea la Real?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -5513,8 +5567,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término de Zalamea la Real."
   },
-  "pregunta 430": {
-    "pregunta": "Acceso desde Aljaraque a Gibraleón:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 430": "Acceso desde Aljaraque a Gibraleón:",
     "opciones": {
       "A": "A-492",
       "B": "N-431",
@@ -5524,8 +5579,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-492 comunica Aljaraque con Gibraleón."
   },
-  "pregunta 431": {
-    "pregunta": "Al norte de Cortegana se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 431": "Al norte de Cortegana se encuentra:",
     "opciones": {
       "A": "Almonaster la Real",
       "B": "Jabugo",
@@ -5535,8 +5591,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Almonaster la Real se ubica geográficamente al norte de Cortegana."
   },
-  "pregunta 432": {
-    "pregunta": "Para acceder al municipio de Zufre:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 432": "Para acceder al municipio de Zufre:",
     "opciones": {
       "A": "A-461",
       "B": "A-434",
@@ -5546,8 +5603,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 permite el acceso principal al municipio de Zufre."
   },
-  "pregunta 433": {
-    "pregunta": "Acceso desde Villablanca a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 433": "Acceso desde Villablanca a Cartaya:",
     "opciones": {
       "A": "N-431",
       "B": "A-496",
@@ -5557,8 +5615,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 comunica Villablanca con Cartaya."
   },
-  "pregunta 434": {
-    "pregunta": "Carretera que une los municipios de Beas y Niebla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 434": "Carretera que une los municipios de Beas y Niebla:",
     "opciones": {
       "A": "HU-3107",
       "B": "A-492",
@@ -5568,8 +5627,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3107 conecta Beas con Niebla."
   },
-  "pregunta 435": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Alájar?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 435": "¿Qué carretera atraviesa el municipio de Alájar?",
     "opciones": {
       "A": "HU-8120",
       "B": "HU-8100",
@@ -5579,8 +5639,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8120 es la vía que atraviesa Alájar."
   },
-  "pregunta 436": {
-    "pregunta": "Para acceder al municipio de Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 436": "Para acceder al municipio de Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-474",
@@ -5590,8 +5651,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 permite el acceso principal al municipio de Villarrasa."
   },
-  "pregunta 437": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 437": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "El Almendro",
       "B": "Alosno",
@@ -5601,8 +5663,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Almendro se ubica geográficamente al oeste de Puebla de Guzmán."
   },
-  "pregunta 438": {
-    "pregunta": "Carretera que une los municipios de Moguer y Palos de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 438": "Carretera que une los municipios de Moguer y Palos de la Frontera:",
     "opciones": {
       "A": "A-494",
       "B": "A-492",
@@ -5612,8 +5675,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-494 comunica Moguer con Palos de la Frontera."
   },
-  "pregunta 439": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Santa Ana la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 439": "¿Cuál de los siguientes embalses se encuentra en Santa Ana la Real?",
     "opciones": {
       "A": "No tiene embalse principal",
       "B": "Embalse de la Melera",
@@ -5623,8 +5687,9 @@
     "respuesta_correcta": "A",
     "explicacion": "No existe un embalse de relevancia operativa en el término municipal de Santa Ana la Real."
   },
-  "pregunta 440": {
-    "pregunta": "Acceso desde Aljaraque a Huelva:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 440": "Acceso desde Aljaraque a Huelva:",
     "opciones": {
       "A": "A-497",
       "B": "N-431",
@@ -5634,8 +5699,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-497 comunica Aljaraque con Huelva."
   },
-  "pregunta 441": {
-    "pregunta": "Vía principal que atraviesa el municipio de Cabezas Rubias:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 441": "Vía principal que atraviesa el municipio de Cabezas Rubias:",
     "opciones": {
       "A": "A-495",
       "B": "HU-5100",
@@ -5645,8 +5711,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es la vía principal que atraviesa Cabezas Rubias."
   },
-  "pregunta 442": {
-    "pregunta": "Al norte de Minas de Riotinto se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 442": "Al norte de Minas de Riotinto se encuentra:",
     "opciones": {
       "A": "El Campillo",
       "B": "Nerva",
@@ -5656,8 +5723,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Campillo se ubica geográficamente al norte de Minas de Riotinto."
   },
-  "pregunta 443": {
-    "pregunta": "Carretera que une los municipios de Chucena y Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 443": "Carretera que une los municipios de Chucena y Escacena del Campo:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5667,8 +5735,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 conecta los municipios de Chucena y Escacena del Campo."
   },
-  "pregunta 444": {
-    "pregunta": "Para acceder al municipio de Paymogo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 444": "Para acceder al municipio de Paymogo:",
     "opciones": {
       "A": "A-496",
       "B": "HU-7104",
@@ -5678,8 +5747,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 permite el acceso principal al municipio de Paymogo."
   },
-  "pregunta 445": {
-    "pregunta": "Acceso desde Alosno a Puebla de Guzmán:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 445": "Acceso desde Alosno a Puebla de Guzmán:",
     "opciones": {
       "A": "HU-4403",
       "B": "HU-4412",
@@ -5689,8 +5759,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4403 conecta los municipios de Alosno y Puebla de Guzmán."
   },
-  "pregunta 446": {
-    "pregunta": "¿Qué municipio se encuentra al este de Paterna del Campo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 446": "¿Qué municipio se encuentra al este de Paterna del Campo?",
     "opciones": {
       "A": "Escacena del Campo",
       "B": "Manzanilla",
@@ -5700,8 +5771,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Escacena del Campo se ubica al este de Paterna del Campo."
   },
-  "pregunta 447": {
-    "pregunta": "Carretera que atraviesa el municipio de Bollullos Par del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 447": "Carretera que atraviesa el municipio de Bollullos Par del Condado:",
     "opciones": {
       "A": "A-483",
       "B": "A-472",
@@ -5711,8 +5783,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-483 es la vía principal que atraviesa el municipio de Bollullos Par del Condado."
   },
-  "pregunta 448": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 448": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -5722,8 +5795,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 449": {
-    "pregunta": "Acceso desde Villablanca a Ayamonte:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 449": "Acceso desde Villablanca a Ayamonte:",
     "opciones": {
       "A": "N-431",
       "B": "A-496",
@@ -5733,8 +5807,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 comunica Villablanca con Ayamonte."
   },
-  "pregunta 450": {
-    "pregunta": "Vía principal que atraviesa el municipio de Sanlúcar de Guadiana:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 450": "Vía principal que atraviesa el municipio de Sanlúcar de Guadiana:",
     "opciones": {
       "A": "HU-4400",
       "B": "A-499",
@@ -5743,12 +5818,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La HU-4400 es la vía principal que atraviesa el municipio de Sanlúcar de Guadiana."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 451": {
-    "pregunta": "¿Qué carretera es el acceso principal a El Cerro de Andévalo?",
+    "pregunta 451": "¿Qué carretera es el acceso principal a El Cerro de Andévalo?",
     "opciones": {
       "A": "A-496",
       "B": "A-495",
@@ -5758,8 +5831,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal de acceso a El Cerro de Andévalo."
   },
-  "pregunta 452": {
-    "pregunta": "Acceso desde Huelva a San Juan del Puerto:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 452": "Acceso desde Huelva a San Juan del Puerto:",
     "opciones": {
       "A": "N-431",
       "B": "A-492",
@@ -5769,8 +5843,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es el eje principal de comunicación entre Huelva y San Juan del Puerto."
   },
-  "pregunta 453": {
-    "pregunta": "Al norte de Almonaster la Real se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 453": "Al norte de Almonaster la Real se encuentra:",
     "opciones": {
       "A": "Cortegana",
       "B": "Jabugo",
@@ -5780,8 +5855,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Cortegana se ubica geográficamente al norte de Almonaster la Real."
   },
-  "pregunta 454": {
-    "pregunta": "Vía principal que atraviesa el municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 454": "Vía principal que atraviesa el municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -5791,8 +5867,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal que atraviesa el municipio de Rosal de la Frontera."
   },
-  "pregunta 455": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 455": "Para acceder al municipio de Cabezas Rubias:",
     "opciones": {
       "A": "A-495",
       "B": "HU-5100",
@@ -5802,8 +5879,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es la vía de acceso principal al municipio de Cabezas Rubias."
   },
-  "pregunta 456": {
-    "pregunta": "¿Qué carretera atraviesa el municipio de Aracena?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 456": "¿Qué carretera atraviesa el municipio de Aracena?",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -5813,8 +5891,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la carretera principal que atraviesa Aracena."
   },
-  "pregunta 457": {
-    "pregunta": "Acceso desde Aljaraque a Cartaya:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 457": "Acceso desde Aljaraque a Cartaya:",
     "opciones": {
       "A": "N-431",
       "B": "A-492",
@@ -5824,8 +5903,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 comunica los municipios de Aljaraque y Cartaya."
   },
-  "pregunta 458": {
-    "pregunta": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 458": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -5835,8 +5915,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 une Cala y Santa Olalla del Cala."
   },
-  "pregunta 459": {
-    "pregunta": "Al este de Aracena se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 459": "Al este de Aracena se encuentra el municipio de:",
     "opciones": {
       "A": "Puerto Moral",
       "B": "Cortegana",
@@ -5846,8 +5927,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Puerto Moral se sitúa al este del término municipal de Aracena."
   },
-  "pregunta 460": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 460": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8122",
       "B": "HU-8120",
@@ -5857,8 +5939,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-8122 permite el acceso principal al municipio de Castaño del Robledo."
   },
-  "pregunta 461": {
-    "pregunta": "Carretera que atraviesa Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 461": "Carretera que atraviesa Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -5868,8 +5951,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villarrasa."
   },
-  "pregunta 462": {
-    "pregunta": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 462": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
     "opciones": {
       "A": "A-495",
       "B": "N-435",
@@ -5879,8 +5963,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es el eje principal que conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 463": {
-    "pregunta": "El embalse del Chanza se encuentra en el término municipal de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 463": "El embalse del Chanza se encuentra en el término municipal de:",
     "opciones": {
       "A": "Puebla de Guzmán",
       "B": "El Almendro",
@@ -5890,8 +5975,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Chanza se localiza en el término municipal de Puebla de Guzmán."
   },
-  "pregunta 464": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 464": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
     "opciones": {
       "A": "A-496",
       "B": "A-495",
@@ -5901,8 +5987,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal de conexión entre Valverde del Camino y Cabezas Rubias."
   },
-  "pregunta 465": {
-    "pregunta": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 465": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
     "opciones": {
       "A": "El Patrás",
       "B": "Castaño del Robledo",
@@ -5912,8 +5999,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Patrás es una aldea perteneciente al municipio de Almonaster la Real."
   },
-  "pregunta 466": {
-    "pregunta": "Vía que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 466": "Vía que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -5923,8 +6011,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que atraviesa el municipio de Beas."
   },
-  "pregunta 467": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 467": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -5934,8 +6023,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de la Melera se sitúa en el término municipal de Cortegana."
   },
-  "pregunta 468": {
-    "pregunta": "Al norte de Cortelazor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 468": "Al norte de Cortelazor se encuentra:",
     "opciones": {
       "A": "Los Marines",
       "B": "Aracena",
@@ -5945,8 +6035,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Los Marines se ubica al norte de Cortelazor."
   },
-  "pregunta 469": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 469": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -5956,8 +6047,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 470": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 470": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -5967,8 +6059,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía principal de acceso a El Almendro."
   },
-  "pregunta 471": {
-    "pregunta": "Carretera que une Bonares con Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 471": "Carretera que une Bonares con Rociana del Condado:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -5978,8 +6071,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 comunica Bonares con Rociana del Condado."
   },
-  "pregunta 472": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 472": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
     "opciones": {
       "A": "Embalse de Paymogo",
       "B": "Embalse del Chanza",
@@ -5989,8 +6083,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Paymogo se localiza en dicho municipio."
   },
-  "pregunta 473": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 473": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "Paymogo",
       "B": "Alosno",
@@ -6000,8 +6095,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Paymogo se sitúa al oeste de Puebla de Guzmán."
   },
-  "pregunta 474": {
-    "pregunta": "Vía que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 474": "Vía que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -6011,8 +6107,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 475": {
-    "pregunta": "Para acceder al municipio de Jabugo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 475": "Para acceder al municipio de Jabugo:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -6021,12 +6118,10 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Jabugo se realiza principalmente por la N-433."
-  }
 },
 {
   "tema_id": "Test 501 preguntas",
-  "pregunta 476": {
-    "pregunta": "Acceso desde Cartaya a El Rompido:",
+    "pregunta 476": "Acceso desde Cartaya a El Rompido:",
     "opciones": {
       "A": "HU-3402",
       "B": "HU-3401",
@@ -6036,8 +6131,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3402 comunica Cartaya con El Rompido."
   },
-  "pregunta 477": {
-    "pregunta": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 477": "¿Cuál de las siguientes carreteras une los municipios de Huelva y Gibraleón?",
     "opciones": {
       "A": "N-431",
       "B": "N-435",
@@ -6047,8 +6143,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-431 es el eje principal de comunicación entre Huelva y Gibraleón."
   },
-  "pregunta 478": {
-    "pregunta": "Al sur de Calañas se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 478": "Al sur de Calañas se encuentra el municipio de:",
     "opciones": {
       "A": "Zalamea la Real",
       "B": "Valverde del Camino",
@@ -6058,8 +6155,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Zalamea la Real se sitúa al sur de Calañas."
   },
-  "pregunta 479": {
-    "pregunta": "Carretera que atraviesa Villarrasa:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 479": "Carretera que atraviesa Villarrasa:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -6069,8 +6167,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Villarrasa."
   },
-  "pregunta 480": {
-    "pregunta": "Para acceder al municipio de Rosal de la Frontera:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 480": "Para acceder al municipio de Rosal de la Frontera:",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -6080,8 +6179,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la vía principal de acceso a Rosal de la Frontera."
   },
-  "pregunta 481": {
-    "pregunta": "Acceso desde Lepe a La Antilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 481": "Acceso desde Lepe a La Antilla:",
     "opciones": {
       "A": "HU-3301",
       "B": "HU-3300",
@@ -6091,8 +6191,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-3301 es la vía de comunicación entre Lepe y La Antilla."
   },
-  "pregunta 482": {
-    "pregunta": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 482": "¿Qué carretera conecta los municipios de Gibraleón y San Bartolomé de la Torre?",
     "opciones": {
       "A": "A-495",
       "B": "N-435",
@@ -6102,8 +6203,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-495 es el eje principal que conecta Gibraleón con San Bartolomé de la Torre."
   },
-  "pregunta 483": {
-    "pregunta": "El embalse del Chanza se encuentra en el término municipal de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 483": "El embalse del Chanza se encuentra en el término municipal de:",
     "opciones": {
       "A": "Puebla de Guzmán",
       "B": "El Almendro",
@@ -6113,8 +6215,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse del Chanza se localiza en el término municipal de Puebla de Guzmán."
   },
-  "pregunta 484": {
-    "pregunta": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 484": "Para acceder al municipio de Cabezas Rubias desde Valverde del Camino:",
     "opciones": {
       "A": "A-496",
       "B": "A-495",
@@ -6124,8 +6227,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-496 es la vía principal de conexión entre Valverde del Camino y Cabezas Rubias."
   },
-  "pregunta 485": {
-    "pregunta": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 485": "¿Qué núcleo poblacional forma parte del municipio de Almonaster la Real?",
     "opciones": {
       "A": "El Patrás",
       "B": "Castaño del Robledo",
@@ -6135,8 +6239,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El Patrás es una aldea perteneciente al municipio de Almonaster la Real."
   },
-  "pregunta 486": {
-    "pregunta": "Vía que atraviesa el municipio de Aracena:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 486": "Vía que atraviesa el municipio de Aracena:",
     "opciones": {
       "A": "N-433",
       "B": "A-461",
@@ -6146,8 +6251,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 es la carretera principal que atraviesa Aracena."
   },
-  "pregunta 487": {
-    "pregunta": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 487": "¿Qué carretera une los municipios de Aroche y Rosal de la Frontera?",
     "opciones": {
       "A": "N-433",
       "B": "A-434",
@@ -6157,8 +6263,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-433 comunica Aroche con Rosal de la Frontera."
   },
-  "pregunta 488": {
-    "pregunta": "Para acceder al municipio de Castaño del Robledo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 488": "Para acceder al municipio de Castaño del Robledo:",
     "opciones": {
       "A": "HU-8110",
       "B": "HU-8105",
@@ -6168,8 +6275,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso al municipio de Castaño del Robledo se realiza a través de la carretera HU-8110."
   },
-  "pregunta 489": {
-    "pregunta": "Al este de Aracena se encuentra el municipio de:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 489": "Al este de Aracena se encuentra el municipio de:",
     "opciones": {
       "A": "Puerto Moral",
       "B": "Cortegana",
@@ -6179,8 +6287,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Puerto Moral se sitúa al este del término municipal de Aracena."
   },
-  "pregunta 490": {
-    "pregunta": "Carretera que atraviesa el municipio de Beas:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 490": "Carretera que atraviesa el municipio de Beas:",
     "opciones": {
       "A": "N-435",
       "B": "A-492",
@@ -6190,8 +6299,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La N-435 es la carretera que atraviesa el municipio de Beas."
   },
-  "pregunta 491": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 491": "¿Cuál de los siguientes embalses se encuentra en Cortegana?",
     "opciones": {
       "A": "Embalse de la Melera",
       "B": "Embalse del Corumbel",
@@ -6201,8 +6311,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de la Melera se sitúa en el término municipal de Cortegana."
   },
-  "pregunta 492": {
-    "pregunta": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 492": "Vía que une los municipios de Cala y Santa Olalla del Cala:",
     "opciones": {
       "A": "A-461",
       "B": "N-433",
@@ -6212,8 +6323,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-461 une Cala y Santa Olalla del Cala."
   },
-  "pregunta 493": {
-    "pregunta": "Al norte de Cortelazor se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 493": "Al norte de Cortelazor se encuentra:",
     "opciones": {
       "A": "Los Marines",
       "B": "Aracena",
@@ -6223,8 +6335,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Los Marines se ubica al norte de Cortelazor."
   },
-  "pregunta 494": {
-    "pregunta": "Acceso desde Paterna del Campo a Manzanilla:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 494": "Acceso desde Paterna del Campo a Manzanilla:",
     "opciones": {
       "A": "A-473",
       "B": "A-472",
@@ -6234,8 +6347,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-473 comunica Paterna del Campo con Manzanilla."
   },
-  "pregunta 495": {
-    "pregunta": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 495": "¿Cuál es la vía principal de acceso a la localidad de El Almendro?",
     "opciones": {
       "A": "A-490",
       "B": "A-495",
@@ -6245,8 +6359,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-490 es la vía principal de acceso a El Almendro."
   },
-  "pregunta 496": {
-    "pregunta": "Carretera que une Bonares con Rociana del Condado:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 496": "Carretera que une Bonares con Rociana del Condado:",
     "opciones": {
       "A": "HU-4100",
       "B": "A-484",
@@ -6256,8 +6371,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La HU-4100 comunica Bonares con Rociana del Condado."
   },
-  "pregunta 497": {
-    "pregunta": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 497": "¿Cuál de los siguientes embalses se encuentra en Paymogo?",
     "opciones": {
       "A": "Embalse de Paymogo",
       "B": "Embalse del Chanza",
@@ -6267,8 +6383,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El embalse de Paymogo se localiza en dicho municipio."
   },
-  "pregunta 498": {
-    "pregunta": "Al oeste de Puebla de Guzmán se encuentra:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 498": "Al oeste de Puebla de Guzmán se encuentra:",
     "opciones": {
       "A": "Paymogo",
       "B": "Alosno",
@@ -6278,8 +6395,9 @@
     "respuesta_correcta": "A",
     "explicacion": "Paymogo se sitúa al oeste de Puebla de Guzmán."
   },
-  "pregunta 499": {
-    "pregunta": "Vía que atraviesa el municipio de Escacena del Campo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 499": "Vía que atraviesa el municipio de Escacena del Campo:",
     "opciones": {
       "A": "A-472",
       "B": "A-473",
@@ -6289,8 +6407,9 @@
     "respuesta_correcta": "A",
     "explicacion": "La A-472 es la vía principal que atraviesa Escacena del Campo."
   },
-  "pregunta 500": {
-    "pregunta": "Para acceder al municipio de Jabugo:",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 500": "Para acceder al municipio de Jabugo:",
     "opciones": {
       "A": "N-433",
       "B": "N-435",
@@ -6300,8 +6419,9 @@
     "respuesta_correcta": "A",
     "explicacion": "El acceso a Jabugo se realiza principalmente por la N-433."
   },
-  "pregunta 501": {
-    "pregunta": "¡Felicidades! ¿Cuál es la carretera principal que une Huelva con Sevilla?",
+  {
+  "tema_id": "Test 501 preguntas",
+    "pregunta 501": "¡Felicidades! ¿Cuál es la carretera principal que une Huelva con Sevilla?",
     "opciones": {
       "A": "A-49",
       "B": "A-472",
@@ -6310,7 +6430,6 @@
     },
     "respuesta_correcta": "A",
     "explicacion": "La A-49 es la autovía principal que conecta Huelva y Sevilla."
-  }
-}           
+  }      
 ]
 
