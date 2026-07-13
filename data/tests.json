@@ -1346,5 +1346,4 @@
   {"tema_id": "Test_501", "pregunta": "Acceso a Sanlúcar de Guadiana:", "opciones": ["A) HU-4401", "B) A-499", "C) A-495", "D) HU-5401"], "correcta": 0, "explicacion": "La HU-4401 da acceso a Sanlúcar."},
   {"tema_id": "Test_501", "pregunta": "Acceso a El Granado:", "opciones": ["A) HU-4400", "B) A-499", "C) A-495", "D) HU-5401"], "correcta": 0, "explicacion": "La HU-4400 da acceso a El Granado."},
   {"tema_id": "Test_501", "pregunta": "Acceso a El Rocío:", "opciones": ["A) A-483", "B) A-481", "C) A-489", "D) A-488"], "correcta": 0, "explicacion": "El acceso es la A-483."}
-
 ]
