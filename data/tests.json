@@ -567,7 +567,7 @@
   {"tema_id": "Test_501", "pregunta": "Acceso Escacena - Paterna:", "opciones": ["A) HU-6110", "B) HU-6111", "C) HU-6120", "D) HU-6118"], "correcta": 0, "explicacion": "El acceso es la HU-6110."},
   {"tema_id": "Test_501", "pregunta": "Acceso Valverde del Camino:", "opciones": ["A) N-435", "B) N-449", "C) N-431", "D) Ninguna es correcta"], "correcta": 0, "explicacion": "Acceso principal vía N-435."},
   {"tema_id": "Test_501", "pregunta": "Acceso Cortegana - Aroche:", "opciones": ["A) N-433", "B) N-439", "C) N-430", "D) N-432"], "correcta": 0, "explicacion": "El acceso es la N-433."},
-  {"tema_id": "Test_501", "pregunta": "Carretera que atraviesa Niebla:", "opciones": ["A) A-472", "B) A-478", "C) A-476", "D) A-461"], "correcta": 0, "explicacion": "La A-472 atraviesa Niebla."}.
+  {"tema_id": "Test_501", "pregunta": "Carretera que atraviesa Niebla:", "opciones": ["A) A-472", "B) A-478", "C) A-476", "D) A-461"], "correcta": 0, "explicacion": "La A-472 atraviesa Niebla."},
 
 
   {"tema_id": "Test_501", "pregunta": "Para acceder al municipio de Villablanca:", "opciones": ["A) A través de la A-499", "B) Ninguna es correcta", "C) A través de la A-461", "D) A través de la A-481"], "correcta": 0, "explicacion": "El acceso principal a Villablanca es vía A-499."},
